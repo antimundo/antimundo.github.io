@@ -1,0 +1,24 @@
+---
+layout: default
+title: Home
+---
+<h1>Últimas entradas</h1>
+
+<ul class="blogPosts">
+  {% for post in site.categories.blog %}
+    <li>
+      <span>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="blogPosts-date">- {{ post.date | date: "%d / %m / %Y" }}</span></h2>
+      </span>
+      <div>
+        {% if post.teaser != null %}
+        <img src='{{ post.teaser }}' height="80px" width="auto" class="img-border" >
+        {% endif %}
+        <div>
+          {{ post.excerpt }}
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,6 @@
+- name: Home
+  link: /
+- name: Juegos
+  link: /games.html
+- name: Sobre mi
+  link: /about.html
