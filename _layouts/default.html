@@ -6,20 +6,20 @@
     <link rel="icon" href="/assets/images/profile.jpg">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Antimundo">
+    {% if page.description != null %}
+    <meta name="description" content="{{ page.description }}">
+    {% endif %}
     {% if page.title != null %}
     <meta property="og:title" content="{{ page.title }}"/>
-    <meta name="twitter:title" content="{{ page.title }}">
     {% endif %}
     {% if page.teaser != null %}
     <meta property="og:image" content="{{ page.teaser }}"/>
     <meta property="og:image:width" content="960" />
     <meta property="og:image:height" content="540"/>
-    <meta name="twitter:image" content="https://antimundo.es/{{ page.teaser }}"/>
-    <meta name="twitter:card" content="summary_large_image">
     {% endif %}
-    <meta property="og:type" content="website"/> 
-    <meta name="twitter:site" content="@antimundo21">
-    <meta name="twitter:creator" content="@antimundo21">
+    <meta property="og:type" content="website"/>
+    <meta property="og:site_name" content="Antimundo" />
   </head>
   <body>
     {% include navigation.html %}
