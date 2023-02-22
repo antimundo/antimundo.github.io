@@ -3,6 +3,7 @@ layout: game
 title:  "Shooty Bob"
 teaser: https://img.itch.zone/aW1nLzUxNjMxNTcucG5n/315x250%23c/0cDRQc.png
 categories: games
+permalink: /:categories/:title:output_ext
 
 excerpt: Shoot UFOs and survive as long as you can.
 itchio: https://antimundo.itch.io/shooty-bob

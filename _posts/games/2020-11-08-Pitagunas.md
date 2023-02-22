@@ -3,6 +3,7 @@ layout: game
 title:  "Pitagunas"
 teaser: https://img.itch.zone/aW1nLzQ1Njg5NDMucG5n/315x250%23c/MT7m%2Fg.png
 categories: games
+permalink: /:categories/:title:output_ext
 
 excerpt: Un juego sobre mapas.
 itchio: https://antimundo.itch.io/pitagunas
