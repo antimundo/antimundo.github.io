@@ -12,7 +12,7 @@ Este post, está escrito por alguien que lleva unos 5 años desarrollando videoj
 ## El origen de Godot
 Hace años, lo normal era que cada empresa de videojuegos, tuviese su propio motor, pero __cada vez es mas dificil competir contra Unity o Unreal__, que tienen financiaciones multimillonarias.
 
-Esta fue la situación en la que se vieron Juan Linietsky y Ariel Manzur, dos desarrolladores argentinos que vieron poco viable seguir desarrollando su motor de videojuegos. Si, has oído bien, __¡Godot nació en latinoamérica!__ Me enorgullece que que haya sido creado por gente hispanohablante, y la gente de latinoamérica debería estarlo mas todavía. 
+Esta fue la situación en la que se vieron Juan Linietsky y Ariel Manzur, dos desarrolladores argentinos que vieron poco viable seguir desarrollando su motor de videojuegos. Sí, has oído bien, __¡Godot nació en latinoamérica!__ Me enorgullece que haya sido creado por gente hispanohablante, y la gente de latinoamérica debería estarlo mas todavía. 
 
 Debido a esto, decidieron liberar el motor como software libre, y crear una comunidad que lo desarrollase libremente.
 
