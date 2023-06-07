@@ -15,12 +15,6 @@ youtube:
   href: 'https://www.youtube.com/@Antimundo/videos'
   title: 'YouTube'
   icon: 'youtube-logo.svg'
-  
-twitch:
-  id: 'antimundo'
-  href: 'https://www.twitch.tv/'
-  title: 'Twitch'
-  icon: 'twitch-logo.svg'
 
 mastodon:
   id: '@antimundo'
