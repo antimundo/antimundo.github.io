@@ -5,7 +5,7 @@ teaser: https://img.itch.zone/aW1nLzcyMDQyODMucG5n/315x250%23c/qLRF1P.png
 categories: games
 permalink: /:categories/:title:output_ext
 
-excerpt: Swipe between two dimmensions to solve the levels!
+excerpt: A simple 3D car controller
 itchio: https://antimundo.itch.io/antimundos-car-prototype
 ---
 
