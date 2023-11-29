@@ -1,7 +1,7 @@
 ---
 layout: game
 title:  "Poder Solar"
-teaser: https://img.itch.zone/aW1nLzEzNTA3ODE3LnBuZw==/315x250%23c/36u4lO.png
+teaser: /assets/images/posts/games/poder-solar/poder-solar.png
 categories: games
 permalink: /:categories/:title:output_ext
 
