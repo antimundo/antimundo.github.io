@@ -18,6 +18,7 @@ youtube:
 
 mastodon:
   id: '@antimundo'
+  full-id: '@antimundo@mastodon.gamedev.place'
   href: 'https://mastodon.gamedev.place/'
   title: 'Mastodon'
   icon: 'mastodon-logo.svg'
