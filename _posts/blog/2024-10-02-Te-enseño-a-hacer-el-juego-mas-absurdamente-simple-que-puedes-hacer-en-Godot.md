@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Te enseño a hacer el juego mas absurdamente simple que puedes hacer en Godot"
-teaser: /assets/images/teaser/te-enseño-a-hacer-el-juego-mas-absurdamente-simple-que-puedes-hacer-en-godot.png
+teaser: /assets/images/teaser/te-enseño-a-hacer-el-juego-mas-absurdamente-simple-que-puedes-hacer-en-godot.jpg
+
 categories: blog
 ---
 
