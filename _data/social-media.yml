@@ -4,12 +4,6 @@ itchio:
   title: 'Itch.io'
   icon: 'itchio-logo.svg'
 
-twitter:
-  id: 'antimundo21'
-  href: 'https://www.twitter.com/'
-  title: 'Twitter'
-  icon: 'twitter-logo.svg'
-
 youtube:
   id: '@Antimundo'
   href: 'https://www.youtube.com/@Antimundo/videos'

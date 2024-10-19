@@ -126,4 +126,4 @@ Hay que tener mucho cuidado con las colaboraciones: Hay que ser humilde, confiar
 
 Muchas de estas colaboracionesas se hacen bajo condiciones terribles. Nunca aceptéis que nadie os explote, y menos aún si encima ni si quiera te está pagando ni dando nada a cambio. Con buena voluntad y planificación, las colaboraciones pueden ser una experienca enriquecedora, pero tened cuidado con ellas.
 
-[@antimundo@mastodon.gamedev.place ](https://mastodon.gamedev.place/@antimundo)
+[{{ site.data.social-media.mastodon.full-id }}]({{ site.data.social-media.mastodon.href }}{{ site.data.social-media.mastodon.full-id }})
