@@ -68,7 +68,7 @@ También banearon muchas cuentas como _@ElonJet_ que se dedicaba a mostrar los r
 
 ![Cuenta de Twitter de Elonjet baneada](/assets/images/posts/2024-10-19-Pensamientos-sobre-Mastodon-y-Blueksy-adios-Twitter/elonjet.jpg)
 
-Otra cosa es que ahora hay una serie de términos que automáticamente Twitter silencia porque los cataloga como "insultos". Por ejemplo Twitter silencia los posts que contengan la palabra "cis" o "cisgénero"  _("cis" es es lo contrario a "trans". Alguien cisgénero es alguien que mantiene el género que se le ha asignado al nacer)._ Pero no es ningún insulto, es como decir que alguien es "alto" o "bajo" son simplemente etiquetas para describir algo.
+Otra cosa es que ahora hay una serie de términos que automáticamente Twitter silencia porque los cataloga como "insultos". Por ejemplo Twitter silencia los posts que contengan la palabra "cis" o "cisgénero"  _("cis" es es lo contrario a "trans". Alguien cisgénero es alguien que se identifica con el género que se le ha asignado al nacer)._ Pero no es ningún insulto, es como decir que alguien es "alto" o "bajo" son simplemente etiquetas para describir algo.
 
 ![Tweet de la cuenta oficial de Elon Musk "The word cis is or cisgender are considered slurs on this platform."](/assets/images/posts/2024-10-19-Pensamientos-sobre-Mastodon-y-Blueksy-adios-Twitter/cis-musk.jpg)
 
@@ -76,6 +76,10 @@ Aquí un ejemplo: Ahora en Twitter puedes decir _"odio a las personas negras", "
 
 
 ![Un usuario prueba en twitter a decir que poner posts diciendo "odio a las personas negras", "odio a las peronas trans", "odio a las personas gays", y no pasa nada. Pero el tweet en el que pone "odio a las personas cis" es silenciado](/assets/images/posts/2024-10-19-Pensamientos-sobre-Mastodon-y-Blueksy-adios-Twitter/cis-tests.jpg)
+
+Twitter también censura las cuentas de quienes van contra de los intereses políticos de su dueño. Ya sea baneando cuentas, o silenciándolas. Esto ha pasado con muchas cuentas, como esta llamada "Palestina Hoy" que se dedica a cubrir noticias sobre la crisis humanitaria del conflicto palestino, Twitter ha desactivado la opción de seguirles. Aunque intentes seguir esta cuenta, no puedes, el botón no funciona.
+
+![Post en Twitter de la cuenta "Palestina hoy": "Por sexto día consecutivo: Twitter (X) impide a los usuarios de la plataforma seguir nuestra cuenta. ¿Has logrado seguir nuestra cuenta hoy?¡No a la censura!"](/assets/images/posts/2024-10-19-Pensamientos-sobre-Mastodon-y-Blueksy-adios-Twitter/palestinahoy.jpg)
 
 Debido a la cantidad de personas que anunciaban que se iban a otra red social, Twitter decidió prohibir la promoción de otras redes sociales. Así que Twitter es una cámara de eco donde la plataforma silencia e intenta hacer como que no existen otras redes sociales. 
 
