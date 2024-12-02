@@ -55,4 +55,4 @@ Sigamos así, sigamos siendo humanos, sigamos expresandonos y haciendo fuerte al
 
 > `¡Mira mamá, salimos en la tele!`
 >
-> ![alt text](/assets/images/posts/2024-05-06-videojuego-en-españa/tele.jpg)
+> ![La tele en el Guadalindie](/assets/images/posts/2024-05-06-videojuego-en-españa/tele.jpg)
