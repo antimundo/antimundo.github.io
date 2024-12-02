@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cuánto dinero facturo haciendo videojuegos con Godot
-teaser: /assets/images/teaser/como-no-hacer-colaboraciones.jpg
+teaser: /assets/images/teaser/cuanto-dinero-facturo-haciendo-videojuegos.jpg
 categories: blog
 ---
 
@@ -94,9 +94,9 @@ Hoy mismo he confirmo mi tercer contrato por **10.000€ + IVA**. Este es porque
 
 Si sumas todo, desde octubre hasta diciembre habremos facturado unos 35.450€, si cuentas IVA son 42.894,5€
 
-Trabajo 1   |	10.000 €
+Trabajo 1   |	24.000 €
 Trabajo 2   | 1.450 €
-Trabajo 3   | 24.000 €
+Trabajo 3   | 10.000 €
 Total       | 35.450 €
 Total + IVA |	42.894,5 €
 
