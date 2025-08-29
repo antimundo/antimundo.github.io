@@ -23,5 +23,3 @@ Curiosamente el tema de la jam era "*Unión*", y la idea es que debes ayudar a 
 Respecto a lo de conocer a otros desarrolladores... No ha surgido, la verdad es que debería participar más en la comunidad, pero lo cierto es que a distancia no suelo ser muy participativo. Me centro tanto en crear el juego y pulirlo, que en ocasiones se me olvida que uno debe publicarlo y compartirlo.
 
 Esta solo es una página más para mi viaje como desarrollador, y un juego bonito que añadir a mi colección de títulos terminados. Aunque espero poder compartir este viaje con más personas en el futuro :)
-
-Twitter: [@Antimundo21](https://twitter.com/antimundo21)

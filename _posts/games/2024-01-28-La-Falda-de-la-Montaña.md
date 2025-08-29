@@ -3,7 +3,7 @@ layout: game
 title:  "La Falda de la Montaña"
 teaser: /assets/images/posts/games/la-falda-de-la-montana/itch.png
 categories: games
-permalink: /:categories/:title:output_ext
+permalink: /:categories/:title
 
 excerpt: Una zarigüeya sube a la montaña para que deje de llorar.
 itchio: https://edearth.itch.io/falda-montana

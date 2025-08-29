@@ -22,6 +22,13 @@ github:
   href: 'https://github.com/'
   title: 'GitHub'
   icon: 'github-logo.svg'
+  hide: true
+
+codeberg:
+  id: 'antimundo'
+  href: 'https://codeberg.org/'
+  title: 'Codeberg'
+  icon: 'codeberg-logo.svg'
 
 email:
   href: 'contacto@antimundo.es'

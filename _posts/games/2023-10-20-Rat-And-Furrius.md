@@ -3,7 +3,7 @@ layout: game
 title:  "Rat And Furrius"
 teaser: /assets/images/posts/games/rat-and-furrius/itch.png
 categories: games
-permalink: /:categories/:title:output_ext
+permalink: /:categories/:title
 
 excerpt: Eres una rata, debes destruir gatos.
 itchio: https://antimundo.itch.io/rat-and-furrius

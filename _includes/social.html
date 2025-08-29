@@ -3,7 +3,7 @@
     {% assign sm = site.data.social-media %}
     {% for entry in site.data.social-media %}
         {% assign key = entry | first %}
-        {% if sm[key].id %}
+        {% if sm[key].id and sm[key].hide != true %}
             <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}" rel="me">
                 <img height="24px" width="24px" src="/assets/images/social/{{ sm[key].icon }}" alt="{{ sm[key].title }}"/>
             </a>

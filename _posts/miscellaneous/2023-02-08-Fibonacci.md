@@ -2,6 +2,8 @@
 layout: post
 title:  "Fibonacci"
 categories: miscellaneous
+permalink: /:categories/:title
+teaser: /assets/images/posts/miscellaneous/fibonacci.jpg
 
 excerpt: Genera los números de la espiral de Fibonacci.
 ---

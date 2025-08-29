@@ -3,7 +3,7 @@ layout: game
 title:  "Poder Solar"
 teaser: /assets/images/posts/games/poder-solar/poder-solar.png
 categories: games
-permalink: /:categories/:title:output_ext
+permalink: /:categories/:title
 
 excerpt: ¡No dejes a tu pueblo sin luz por la noche!
 itchio: https://antimundo.itch.io/poder-solar

@@ -3,7 +3,7 @@ layout: game
 title:  "Tree Rescuer"
 teaser: https://img.itch.zone/aW1nLzU5MDA1NTgucG5n/315x250%23c/%2FM1hwF.png
 categories: games
-permalink: /:categories/:title:output_ext
+permalink: /:categories/:title
 
 excerpt: Save the trees before it's too late!
 itchio: https://antimundo.itch.io/tree-rescuer

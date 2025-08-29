@@ -3,7 +3,7 @@ layout: game
 title:  "Infinigrass"
 teaser: /assets/images/posts/games/infinigrass/itch.png
 categories: games
-permalink: /:categories/:title:output_ext
+permalink: /:categories/:title
 
 excerpt: Las malditas malas hierbas no paran de crecer
 itchio: https://antimundo.itch.io/infinigrass

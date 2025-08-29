@@ -17,7 +17,7 @@ Blender, es sin duda, un programa que me ha dejado fascinado y que seguiré usan
 
 Sin embargo, todavía no me siento tan cómodo como con los juegos en 2D. Ha llegado un punto en el que me entiendo muy bien con Unity, y disfruto mucho del proceso de hacer juegos con *sprites*, y necesito un periodo de adaptación y aprendizaje para sentirme así con la tercera dimensión. Por lo que por ahora, voy a seguir aprendiendo Blender, y mientras voy a seguir por un tiempo en mi línea de hacer juegos 2D.
 
-De hecho, ya tengo pensado cuál va a ser mi próximo juego, un juego que va a tratar sobre España, mi tierra, y con suerte, será mi primer juego comercial. Quiero hacer un buen juego, un producto en condiciones que se pueda jugar de principio a fin y merezca la pena el precio que cueste. Por eso quiero dedicarle tiempo, y por ahora va a ser mi juego mas ambicioso, no porque sea de enormes dimensiones, si no porque quiero que esté cuidado y hecho con mimo. Si quiere saber mas, te animo a [seguirme en Twitter](https://twitter.com/antimundo21), o a [unirte a mi Discord](https://discord.gg/bfkFFw6), para cuando pueda contar mas.
+De hecho, ya tengo pensado cuál va a ser mi próximo juego, un juego que va a tratar sobre España, mi tierra, y con suerte, será mi primer juego comercial. Quiero hacer un buen juego, un producto en condiciones que se pueda jugar de principio a fin y merezca la pena el precio que cueste. Por eso quiero dedicarle tiempo, y por ahora va a ser mi juego mas ambicioso, no porque sea de enormes dimensiones, si no porque quiero que esté cuidado y hecho con mimo.
 
 ![](https://img.itch.zone/aW1hZ2UvMTE5ODc5My83MjAzOTA1LmpwZw==/original/0zO5eN.jpg)
 

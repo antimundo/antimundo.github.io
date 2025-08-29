@@ -3,7 +3,7 @@ layout: game
 title:  "A Wheel Game"
 teaser: https://img.itch.zone/aW1hZ2UvMTE0NTk3NC82NjUyMDk2LnBuZw==/original/06n4Dh.png
 categories: games
-permalink: /:categories/:title:output_ext
+permalink: /:categories/:title
 
 excerpt: Roll as fast as you can!
 itchio: https://antimundo.itch.io/a-wheel-game

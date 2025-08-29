@@ -1,0 +1,41 @@
+---
+layout: default
+title: Proyectos
+description: "Videojuegos desarrollados por Antimundo, desarrollador indie de Madrid, me dedico a programar y diseñar aplicaciones y videojuegos. ¡Juegalos gratis!"
+---
+<h1>Mis juegos</h1>
+
+<ul class="project-container">
+  {% for post in site.categories.games %}
+    <li class="project">
+      {% if post.teaser != null %}
+      {% endif %}
+      <div>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <div>{{ post.excerpt }}</div>
+      </div>
+      <a href="{{ post.url }}">
+        <img src='{{ post.teaser }}' height="auto" width="auto" alt="{{ post.title }}" >
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Otras cosas</h2>
+
+
+<ul class="project-container">
+  {% for post in site.categories.miscellaneous %}
+    <li class="project">
+      {% if post.teaser != null %}
+      {% endif %}
+      <div>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <div>{{ post.excerpt }}</div>
+      </div>
+      <a href="{{ post.url }}">
+        <img src='{{ post.teaser }}' height="auto" width="auto" alt="{{ post.title }}" >
+      </a>
+    </li>
+  {% endfor %}
+</ul>

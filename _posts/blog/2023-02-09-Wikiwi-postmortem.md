@@ -58,6 +58,4 @@ Tras 32 commits en Git, algunos de los cambios mas significativos son:
 
 La versión original [sigue disponible](https://antimundo.itch.io/wikiwi), pero me alegro de haber sacado una versión actualizada. Una de mis mayores rarezas como desarrollador, es que disfruto muchísimo de pulir detalles, arreglar bugs, y añadir pequeñas mejoras. Aquí cierro Wikiwi, otro juego en mi historia como desarrollador. 💚
 
-Twitter: [@Antimundo21](https://twitter.com/antimundo21)
-
 > Este artículo fue originalmente publicado en [itch.io](https://antimundo.itch.io/wikiwi/devlog/487360/wikiwi-postmortem), y añadido a mi web para conservarlo.

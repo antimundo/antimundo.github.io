@@ -3,7 +3,7 @@ layout: game
 title:  "Dimension Swapper"
 teaser: https://img.itch.zone/aW1nLzUxMzUyOTYucG5n/315x250%23c/Dk5Q6Q.png
 categories: games
-permalink: /:categories/:title:output_ext
+permalink: /:categories/:title
 
 excerpt: Swipe between two dimmensions to solve the levels!
 itchio: https://antimundo.itch.io/dimension-swapper

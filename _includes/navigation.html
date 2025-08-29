@@ -5,7 +5,9 @@
         {% include social.html %}
         <nav class="header-nav">
             {% for item in site.data.navigation %}
-            <a href="{{ item.link }}" {% if page.url==item.link %}class="current" {% endif %}>
+            {% assign item_link = item.link | replace: '/', '' %}
+            {% assign page_url = page.url | replace: '/', '' %}
+            <a href="{{ item.link }}" {% if item_link == page_url %}class="current"{% endif %}>
                 {{ item.name }}
             </a>
             {% endfor %}

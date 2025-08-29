@@ -3,7 +3,7 @@ layout: game
 title:  "Villajunto"
 teaser: https://img.itch.zone/aW1nLzcwNjY0NzYucG5n/315x250%23c/UGzuMo.png
 categories: games
-permalink: /:categories/:title:output_ext
+permalink: /:categories/:title
 
 excerpt: ¡Une a tu pueblo contra el rey!
 itchio: https://antimundo.itch.io/villajunto

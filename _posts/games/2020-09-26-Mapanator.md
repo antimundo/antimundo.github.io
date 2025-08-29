@@ -3,7 +3,7 @@ layout: game
 title:  "Mapanator"
 teaser: https://img.itch.zone/aW1nLzQzMDE2MTYucG5n/315x250%23c/C90edB.png
 categories: games
-permalink: /:categories/:title:output_ext
+permalink: /:categories/:title
 
 excerpt: Un juego sobre mapas.
 itchio: https://antimundo.itch.io/mapanator

@@ -3,7 +3,7 @@ layout: game
 title:  "Mars Arena"
 teaser: https://img.itch.zone/aW1nLzY2NzQxNjkucG5n/315x250%23c/dXudT3.png
 categories: games
-permalink: /:categories/:title:output_ext
+permalink: /:categories/:title
 
 excerpt: Fight with your custom spaceship.
 itchio: https://antimundo.itch.io/mars-arena
