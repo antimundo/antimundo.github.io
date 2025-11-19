@@ -138,13 +138,13 @@ Para desinstalar software en Windows debes:
 
 ![Un wizard de instalación de software de Windows](/assets/images/posts/2025-08-28-mi-cambio-a-linux/install-wizard.png)
 
-Si todo funciona, de desinstalará el programa. Hay muchas veces que no funciona, por ejemplo porque el programa se está ejecutando en segundo plano (aunque tu no lo hayas abierto) y por lo tanto no puedes desinstalarlo. O que no se desintala simple y llanamente porque el desinstalador ha decidido no funcionar.
+Si todo funciona, se desinstalará el programa. Hay muchas veces que no funciona, por ejemplo porque el programa se está ejecutando en segundo plano (aunque tu no lo hayas abierto) y por lo tanto no puedes desinstalarlo. O que no se desintala simple y llanamente porque el desinstalador ha decidido no funcionar.
 
 ### 1.6.3 Actualizar software en Windows es horrible
 
 Actualizar software en Windows es horrible porque cada software se actualiza de una forma distinta.
 
-Algunos programás como _GIMP, LibreOffice, Blender, Audacity..._ que NO se actualizan solos, y debo desinstalarlos y volver a instalarlos manualmente haciendo los pasos anteriores.
+Algunos programás como _GIMP, LibreOffice, Blender, Audacity..._ NO se actualizan solos, y debo desinstalarlos y volver a instalarlos manualmente haciendo los pasos anteriores.
 
 Otros programás como _Steam, Google Chrome, Firefox, VSCode..._ se actualizan solos. Pero cada uno se actualiza cuando quiere sin mi consentimiento, y cada uno tiene una forma de actualizarse totalmente distinta de los otros.
 
