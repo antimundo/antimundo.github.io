@@ -4,46 +4,49 @@ title: Intel se hunde en el Ces 2020
 teaser: /assets/images/teaser/miniatura-intel-amd.jpg
 categories: blog
 ---
-En 2017 decidí que era hora de jubilar a mi vieja PlayStation 3, que ya cumplía una década. Fue entonces cuando me encontré en la disyuntiva entre comprar la nueva PlayStation 4, o montarme un ordenador.
+En Junio de 2017 compré mi ordenador. ¿Su procesador? Un i5-7600k. AMD había anunciado Ryzen hace poco, pero se hablaba de problemas de voltajes, latencia con las memorias, errores de BIOS… Problemas de los cuales no quería hacerme cargo. Fui a por Intel, la vieja confiable.
 
-Me decidí por el PC, por muchos motivos que dan para escribir un post muy largo. Pero hoy nos centraremos en uno que fue decisivo para mi: Los juegos son muy baratos en PC.
+Pasado el tiempo empecé a conocer gente que tenía esos procesadores, a ver benchmarks, a comparar precios… No tardaron en sacar su segunda generación, mucho mas pulida y estable… Luego la tercera, que había alcanzado una potencia brutal. Y de repente te das cuenta ¿qué acaba de pasar?
 
-No es para menos, una plataforma sin generaciones. Simple y llanamente, es retrocompatible con todos los juegos que han existido anteriormente para su plataforma.
+En 3 años AMD ha mejorado sus procesadores a pasos agigantados, pasando de ser el gran segundón. A la principal recomendación de compra en la gran mayoría de guías de compra de internet.
 
-Mientras que para jugar un juego de la PS2 en la PS3, tienes que volver a comprarlo, y de igual manera para la PS4. Habiendo comprado el juego 3 veces para jugarlo en 3 plataformas distitnas.
+## Atascados desde hace años
 
-En PC esto directamente no existe, porque no está sujeto a que una compañía decida sacar una nueva generación. Tu decides cuando compras uno, tu decides cuando actualizas. Y cuando compres un nuevo ordenador, tus juegos seguirán estando ahí.
+Intel por su parte, sacó sus procesadores a 14nm hace 6 años. Desde entonces apenas han mejorado, siguen atascados.
 
-## Epic Games sumando competencia
-Contamos con emuladores, con el mayor mercado de juegos indie imaginable, y contamos con Steam, que nos trae suculentas ofertas con regularidad. De hecho tan a menudo, que nos hemos acostumbrado a comprar cualquier juego a la mitad de su precio original.
+Voy a ir mas allá. Intel sacó su procesador Core 2 Quad en 2006. A 3.2 GHz. ¿Su procesador tope de gama en 2017? El i7-7700k a 4.2 GHz, también con 4 núcleos. Se que estos procesadores no son comparables, solo quiero señalar que en 11 años su margen de mejora ha sido mínimo.
+Por qué tanto resentimiento
 
-Steam es sin duda un titán, al que nadíe podía ni toser. Para rivalizar con ellos, debías estar a la altura del servicio que ofrecen a sus usuarios. Y ahí es cuando aperece Epic.
+¿Sabéis cual es el problema con mi i5-7600k? Que no puedo poner un procesador de octava generación en el. Y ahora que va a salir la décima, si tenías un procesador de novena generación, también tendrás que comprar una placa nueva, a pesar de podrían ser perfectamente compatibles.
 
-Esta empresa desarrollaba el motor gráfico Unreal Engine, y de vez en cuando algún juego. Les pertenece la saga Unreal Tournament, o el olvidado Paragon. Pero sin duda su juego estrella vino con la llegada de Fortnite Battle Royale.
+Este afán por exprimir al consumidor, y obligarle a comprar productos que no necesita para que te de mas dinero, destapa como el monopolio les estaba haciendo avariciosos. No tenían competencia así que podían hacer lo que les diese la gana.
 
-Epic contaba entonces con una popularidad inmensa, y muchísima gente tenía su launcher, solo para poder jugar a Fortnite. Fue ahí cuando sacaron su propia tienda, con la que pretendían competir directamente contra Steam.
+## Mas problemas
 
-Desde entonces ha pasado mucho tiempo, la tienda de Epic fue horrenda en su lanzamiento. Pero día a día la han ido actualizando, y en este momento es una aplicación bastante digna. Y a los usuarios nos ha brindado una página mas donde ver ofertas y lanzamientos de juegos.
+Quizás os suenen Meltdown, Spectre, Zombieload… Son unos de los muchos problemas de seguridad que están teniendo estos procesadores, uno mas de los problemas a los que se enfrentan últimamente.
 
-Por otra parte, Epic decidió que, para atraer la atención del público iban a regalar juegos con regularidad, y nada de juegos basura o de tercera: The Witness, Subnautica, Limbo, Metro 2033, The Wolf Among Us… Sumando así los 62 juegos que tengo a día de hoy en mi biblioteca de Epic, en la cual no he invertido ni un solo euro.
+¿Recordáis eso de que intel llevaba años atascado? Desde 11 años no sacaban procesadores de mas de 4 núcleos… (ojo, hablo en la gama doméstica todo el rato)
 
-## Juegos gratis para todos
-Pero es que no acabamos ahí. Ubisoft ha regalado varios Assesins Creed a lo largo de su historia, y juegos como el Watch Dogs. Que a día de hoy tengo en mi biblioteca, y he jugado sin pagar un solo euro.
+Pues resulta que AMD ha empezado a sacar procesadores de 6, 8, 12 y hasta 16 núcleos… Obviamente estos cuadriplican el número de núcleos que tenía Intel. Y de repente… Vaya que sorpresa, ahora resulta que Intel saca procesadores de 6 y 8 núcleos, que planean sacar uno de 10.
 
-Otras empresas como Electronics Arts, han regalado el Plants vs Zombies, el Battlefield 3, Dead Space, Los Sims 4 y muchos otros.
+Por qué habéis tenido que esperar a que AMD os saque un procesador como el 3900x para daros cuenta de que podíais aumentar los núcleos de vuestros procesadores. La respuesta es sencilla, no les daba la gana.
 
-Destiny, Starcraft 2 o CS:GO son ejemplo de juegos que abandonan su modelo de juego de pago y pasan a ser gratuitos, y es que esa es otra, los free to play, que hay a patadas. MMOs a patadas, Team Fortress, Brawlhalla, VRChat, War Thunder, Quake, League of Legends y Dota… Podría estar todo el día y la lista no acabaría.
+En la gama extrema Intel tiene sus procesadores X. Estos siempre han valido miles de euros, y tenían precios desorbitados. Pero de repente AMD sacó su competencia directa, los Threadripper, que eran muchísimo mejores calidad precio. Y justo después resulta que Intel va a reducir los precios de todos sus procesadores a la mitad…
 
-## Bundles y claves
-Páginas como Humble Bundle (a parte de regalar juegos de vez en cuando como mencionaba antes) nos ofrecen con frecuencia paquetes de tropecientos juegos a precios ridículos. Es un lugar donde por 3,5€ compré el Injustice, Mad Max, Bastion, Batman Arkham Origins, Shadow of Mordor, el Scribblenauts, y un par mas.
+¿Cuánto margen de beneficio tenían estos procesadores para que ahora puedas reducir su precio a la mitad, y sigan siendo rentables? Literalmente estaban timando a sus usuarios, y este dinero no creo que lo invirtiesen en investigación para mejorar sus productos. Porque como veis año tras año eran lo mismo.
 
-También he conocido páginas de claves, os recomiendo visitar Allkeyshop, una página donde puedes comparar los precios de un mismo juego en distintos sitios. En esta página compré el Minecraft por 1€. Y es común ver muchos juegos a precios irrisorios.
+AMD por su parte, lleva 3 generaciones de procesadores, haciéndolos compatibles entre si, ha sacado procesadores de 16 núcleos en la gama doméstica cuando el tope antes eran 4. Y ha sacado un procesador con la burrada de 64 núcleos 128 núcleos por 4000€ con el que Intel directamente no puede competir.
 
 ## Conclusión
-En los 10 años que tuve la PS3 tuve un total de 20 juegos. Nunca compré ningún juego de salida. Me esperaba a poder comprarlos de segunda mano mas baratos.
 
-Bueno pues aun con esas, ahora mismo mi bliblioteca se cuenta por cientos, y el dinero que me he gastado es irrisorio en comparación a lo que me costaron esos 20 juegos.
+No creo AMD sea una ONG, quieren ganar mercado. Por eso tienen una política de cara al usuario tan buena. Por eso no creo que haya que considerarse «fan» de esta empresa, porque al final es eso. Una empresa.
 
-Podemos acceder a una cantidad, y calidad de contenido espectacular. Y no es si no una bendición a la que puedes acceder si estás un poco pendiente de ofertas, y sabes donde buscar juegos a buen precio.
+Tampoco creo que Intel sean malas personas, pero tienen que darse cuenta de que se están pasando de avariciosos, y que las cosas van a acabar muy mal para ellos como sigan asiendo así de cabezones.
 
-En algún punto me gustaría hablar de como en los últimos años Linux y Windows 10, están aumentando su accesibilidad, y como es cada vez mas fácil sumergirse en el mundo de los videojuegos.
+Por otra parte, mi sueño húmedo pasa por que tanto AMD como Intel convivan en un 50/50 de cuota de mercado, para que compitan entre ellos, e intenten mejorar sus productos para superar a la competencia, en un tira y afloja que solo beneficia al usuario.
+
+Y es que este tira y afloja, nos ha dado a los usuarios los mejores 3 años de toda una década respecto a procesadores se refiere. Y espero que siga siendo así, porque las cosas mejoran como la espuma y eso me alegra, pero Intel solo podrá seguir en el juego si dejan de ser unos cabutos de cabutonería.
+
+Se despide, siempre vustro. Antimundo
+
+\(￣︶￣*\))
