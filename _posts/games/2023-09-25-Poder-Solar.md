@@ -33,7 +33,7 @@ Hecho para la [Indie Spain Jam 2023](https://itch.io/jam/indie-spain-jam-23), el
 
 ### Software libre
 
-Este juego es software libre, puedes ver el código y los assets aquí: [github.com/antimundo/poder_solar](https://github.com/antimundo/poder_solar)
+Este juego es software libre, puedes ver el código y los assets aquí: [codeberg.org/antimundo/poder-solar](https://codeberg.org/antimundo/poder-solar)
 
 <div class="img-container">
     <img>
