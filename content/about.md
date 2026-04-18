@@ -5,7 +5,7 @@ title = 'Sobre mí'
 <img src="/images/about/character.png" style="display:block; margin:0 auto;">
 
 ¡Buenas! Soy Antimundo, un desarrollador de software de Madrid especialmente interesado en la educación, accesibilidad, y cultura libre 🌱.
-
+<!--more-->
 Dedico gran parte de mi tiempo a contribuir en proyectos de software y cultura libre. Puedes ver alguna de mis contribuciones en [Codeberg](https://codeberg.org/antimundo); también colaboro en [OpenStreetMap](https://www.openstreetmap.org) y en la [Wikipedia en español](https://es.wikipedia.org).
 
 Hago videojuegos que puedes probar en mi [itch.io](https://antimundo.itch.io/).

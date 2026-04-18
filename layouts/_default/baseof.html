@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="es">
+
 <head>
   <title>{{ .Title }} - Antimundo</title>
   <link rel="stylesheet" href="/css/style.css">
@@ -8,9 +9,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="author" content="Antimundo">
-  {{ if .Params.description }}
+  {{ if .IsHome }}
+  <meta name="description" content="{{ .Site.Params.description }}">
+{{ else if .Params.description }}
   <meta name="description" content="{{ .Params.description }}">
-  {{ end }}
+{{ else if .Summary }}
+  <meta name="description" content="{{ .Summary | plainify }}">
+{{ end }}
   {{ if .Params.title }}
   <meta property="og:title" content="{{ .Params.title }}">
   {{ end }}

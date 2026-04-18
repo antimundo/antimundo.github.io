@@ -109,24 +109,72 @@
       width: 18px;
       height: 18px;
     }
+
+    @media (max-width: 800px) {
+      .header-inner {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .profile-img {
+        margin-bottom: 0;
+      }
+
+      header h1 {
+        margin-bottom: 0;
+      }
+
+      header nav {
+        width: 100%;
+      }
+
+      header nav ul {
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+      }
+
+      header nav ul li {
+        width: 100%;
+      }
+
+      header nav ul li a {
+        width: 100%;
+        box-sizing: border-box;
+      }
+
+      .social-buttons {
+        width: 100%;
+        margin-top: 10px;
+      }
+    }
   </style>
 
   <div class="header-inner">
-    <img class="profile-img" src="/images/profile.png" alt="Profile">
-
-    <h1><a href="/" style="text-decoration:none;color:inherit;">{{ .Site.Title }}</a></h1>
-
+    <div class="brand">
+      <img class="profile-img" src="/images/profile.png" alt="Profile">
+      <h1>
+        <a href="/" style="text-decoration:none;color:inherit;">
+          {{ .Site.Title }}
+        </a>
+      </h1>
+    </div>
     <nav>
       <ul>
-{{ range .Site.Menus.main }}
-  <li>
-    <a href="{{ .URL }}"
-       class="{{ if eq (trim .URL "/") (trim $.RelPermalink "/") }}active{{ end }}">
-      <img src="/images/icons/{{ .Params.icon }}" alt="{{ .Name }}" />
-      <span>{{ .Name }}</span>
-    </a>
-  </li>
-{{ end }}
+        {{ range .Site.Menus.main }}
+        <li>
+          <a href="{{ .URL }}" class="{{ if eq (trim .URL " /") (trim $.RelPermalink "/" ) }}active{{ end }}">
+            <img src="/images/icons/{{ .Params.icon }}" alt="{{ .Name }}" />
+            <span>{{ .Name }}</span>
+          </a>
+        </li>
+        {{ end }}
       </ul>
     </nav>
 

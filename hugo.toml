@@ -1,10 +1,12 @@
 baseURL = 'https://antimundo.es/'
 languageCode = 'es'
 title = 'Antimundo'
-description = 'Web personal de Antimundo, desarrollador de software de Madrid, me dedico a programar y diseñar aplicaciones y videojuegos. ¡Juegalos gratis!'
 
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = false
+
+[params]
+  description = "Web personal de Antimundo, desarrollador de software de Madrid, me dedico a programar y diseñar aplicaciones y videojuegos. ¡Juegalos gratis!"
 
 [languages]
 
