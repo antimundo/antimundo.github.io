@@ -1,8 +1,0 @@
-url: https://antimundo.github.io
-baseurl:
-
-permalink: pretty
-
-collections:
-  my_categories:
-    output: true

@@ -1,0 +1,41 @@
+itchio:
+  id: ''
+  href: 'https://antimundo.itch.io'
+  title: 'Itch.io'
+  icon: 'itchio-logo.svg'
+
+youtube:
+  id: '@Antimundo'
+  href: 'https://www.youtube.com/@Antimundo/videos'
+  title: 'YouTube'
+  icon: 'youtube-logo.svg'
+
+mastodon:
+  id: '@antimundo'
+  full-id: '@antimundo@mastodon.gamedev.place'
+  href: 'https://mastodon.gamedev.place/'
+  title: 'Mastodon'
+  icon: 'mastodon-logo.svg'
+
+github:
+  id: 'antimundo'
+  href: 'https://github.com/antimundo'
+  title: 'GitHub'
+  icon: 'github-logo.svg'
+
+codeberg:
+  id: 'antimundo'
+  href: 'https://codeberg.org/antimundo'
+  title: 'Codeberg'
+  icon: 'codeberg-logo.svg'
+
+email:
+  href: 'contacto@antimundo.es'
+  title: 'Email'
+  icon: 'github-logo.svg'
+
+rss:
+  id: 'RSS'
+  href: '/index.xml'
+  title: 'RSS'
+  icon: 'rss-logo.svg'

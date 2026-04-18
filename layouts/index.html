@@ -1,0 +1,58 @@
+{{ define "main" }}
+<style>
+  .blog-item {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 20px;
+    align-items: flex-start;
+  }
+
+  .blog-item img {
+    width: 160px;
+    flex-shrink: 0;
+    object-fit: cover;
+    border-radius: 6px;
+    background: #eee;
+  }
+
+  .blog-item div {
+    flex: 1;
+  }
+
+  .blog-item a {
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .blog-item a:hover {
+    text-decoration: underline;
+  }
+
+  .blog-item p {
+    margin: 4px 0;
+    line-height: 1.4;
+  }
+
+  .blog-item p i {
+    color: #777;
+    font-size: 0.9rem;
+  }
+</style>
+
+<h1>Blog</h1>
+
+{{ range where (where .Site.RegularPages "Section" "posts") "Params.archived" "ne" true }}
+<article class="blog-item">
+  {{ with .Params.teaser }}
+  <img src="{{ . | relURL }}" alt="Teaser image">
+  {{ end }}
+  <div>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <p><i>{{ .Date.Format "2006-01-02" }}</i></p>
+    <p>{{ .Summary }}</p>
+  </div>
+</article>
+{{ end }}
+{{ end }}

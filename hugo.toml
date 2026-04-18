@@ -1,0 +1,50 @@
+baseURL = 'https://antimundo.es/'
+languageCode = 'es'
+title = 'Antimundo'
+description = 'Web personal de Antimundo, desarrollador de software de Madrid, me dedico a programar y diseñar aplicaciones y videojuegos. ¡Juegalos gratis!'
+
+defaultContentLanguage = "es"
+defaultContentLanguageInSubdir = false
+
+[languages]
+
+  [languages.es]
+    languageName = "Español"
+    weight = 1
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+
+[outputs]
+    home = ["HTML", "RSS"]
+    section = ["HTML", "RSS"]
+
+[permalinks]
+  posts = "/blog/:year/:month/:day/:slug/"
+  projects = "/projects/:title/"
+
+[menus]
+  [[menus.main]]
+    name = "Blog"
+    pageRef = "/"
+    weight = 1
+    params = { icon = "blog.svg" }
+
+  [[menus.main]]
+    name = "Proyectos"
+    pageRef = "/projects"
+    weight = 2
+    params = { icon = "projects.svg" }
+
+  [[menus.main]]
+    name = "Sobre mí"
+    icon = "aboutme.svg"
+    pageRef = "/about"
+    weight = 3
+    params = { icon = "aboutme.svg" }
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
