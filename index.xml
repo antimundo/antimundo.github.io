@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Antimundo</title><link>https://antimundo.es/</link><description>Recent content on Antimundo</description><generator>Hugo</generator><language>es</language><lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://antimundo.es/index.xml" rel="self" type="application/rss+xml"/><item><title>Windows usará Linux, una predicción del futuro</title><link>https://antimundo.es/blog/2025/12/26/windows-usar%C3%A1-linux-una-predicci%C3%B3n-del-futuro/</link><pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2025/12/26/windows-usar%C3%A1-linux-una-predicci%C3%B3n-del-futuro/</guid><description>&lt;p&gt;Quiero dejar esto por escrito una predicción que hago para el futuro:&lt;/p&gt;</description></item><item><title>Antimundo's Godot basic projects</title><link>https://antimundo.es/projects/antimundos-godot-basic-projects/</link><pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/antimundos-godot-basic-projects/</guid><description>&lt;p&gt;This is a collection of open source games I made with Godot. Aimed to be very simple sample projects for Godot newcommers.&lt;/p&gt;
+&lt;h2 id="choose-your-own-adventure"&gt;&lt;a href="https://codeberg.org/antimundo/choose-your-own-adventure"&gt;Choose your own adventure&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Choose your own adventure video game made with Godot 4.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://codeberg.org/antimundo/choose-your-own-adventure/media/branch/main/images/0.svg" alt=""&gt;&lt;/p&gt;
+&lt;h2 id="flappy-bird-clone"&gt;&lt;a href="https://codeberg.org/antimundo/flappy-bird-clone"&gt;Flappy Bird Clone&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Simple flappy bird clone made with Godot 4.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://codeberg.org/antimundo/flappy-bird-clone/media/branch/main/gameplay.gif" alt=""&gt;&lt;/p&gt;
+&lt;h2 id="top-down-shooter"&gt;&lt;a href="https://codeberg.org/antimundo/top-down-shooter"&gt;Top Down Shooter&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Generic 3D top down shooter video game made with Godot 4.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://codeberg.org/antimundo/top-down-shooter/media/branch/main/screenshot.jpg" alt=""&gt;&lt;/p&gt;</description></item><item><title>Antimundo's dozenal arithmetic website</title><link>https://antimundo.es/projects/antimundos-dozenal-arithmetic-website/</link><pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/antimundos-dozenal-arithmetic-website/</guid><description>&lt;script&gt;
+function redirect() {
+ location.replace("https://antimundo.codeberg.page/antimundos-dozenal-arithmetic-website/")
+}
+redirect()
+&lt;/script&gt;</description></item><item><title>Mi cambio a Linux como desarrollador de videojuegos</title><link>https://antimundo.es/blog/2025/08/28/mi-cambio-a-linux-como-desarrollador-de-videojuegos/</link><pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2025/08/28/mi-cambio-a-linux-como-desarrollador-de-videojuegos/</guid><description>&lt;p&gt;Este es un post MUY LARGO en el que hablaré de los motivos por los que me he cambiado a Linux como desarrollador de videojuegos, después de haber sido usuario de Windows durante muchos años.&lt;/p&gt;</description></item><item><title>Spain into the Fediverse</title><link>https://antimundo.es/projects/spain-into-the-fediverse/</link><pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/spain-into-the-fediverse/</guid><description>&lt;script&gt;
+function redirect() {
+ location.replace("https://nokorpo.codeberg.page/spain-into-the-fediverse/")
+}
+redirect()
+&lt;/script&gt;</description></item><item><title>Cuánto dinero facturo haciendo videojuegos con Godot</title><link>https://antimundo.es/blog/2024/12/02/cu%C3%A1nto-dinero-facturo-haciendo-videojuegos-con-godot/</link><pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2024/12/02/cu%C3%A1nto-dinero-facturo-haciendo-videojuegos-con-godot/</guid><description>&lt;p&gt;He empezado a hacer videojuegos como freelance hace poco. En este post hablaré con transparencia sobre qué hago, cuánto dinero estoy facturando, y qué futuro le veo.&lt;/p&gt;</description></item><item><title>Pensamientos sobre Mastodon y Bluesky, adios Twitter</title><link>https://antimundo.es/blog/2024/10/19/pensamientos-sobre-mastodon-y-bluesky-adios-twitter/</link><pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2024/10/19/pensamientos-sobre-mastodon-y-bluesky-adios-twitter/</guid><description>&lt;p&gt;Twitter solía ser una red social que me gustaba. Era la red por defecto donde nos seguíamos cuando conocía a alguien que también hacía videojuegos, que programaba, que diseñaba&amp;hellip; Era el sitio donde muchas comunidades estaban mas que asentadas.&lt;/p&gt;</description></item><item><title>Te enseño a hacer el juego mas absurdamente simple que puedes hacer en Godot</title><link>https://antimundo.es/blog/2024/10/02/te-ense%C3%B1o-a-hacer-el-juego-mas-absurdamente-simple-que-puedes-hacer-en-godot/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2024/10/02/te-ense%C3%B1o-a-hacer-el-juego-mas-absurdamente-simple-que-puedes-hacer-en-godot/</guid><description>&lt;p&gt;En este tutorial haremos uno de los juegos mas sencillos que se pueden crear con Godot.&lt;/p&gt;</description></item><item><title>Cómo no hacer colaboraciones en gamedev</title><link>https://antimundo.es/blog/2024/09/03/c%C3%B3mo-no-hacer-colaboraciones-en-gamedev/</link><pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2024/09/03/c%C3%B3mo-no-hacer-colaboraciones-en-gamedev/</guid><description>&lt;p&gt;En la industria del videojuego, mas concretamente en España, se realizan una cantidad de colaboraciones ingentes.&lt;/p&gt;</description></item><item><title>Guadalindie y el videojuego en España, cada vez mas humano</title><link>https://antimundo.es/blog/2024/05/06/guadalindie-y-el-videojuego-en-espa%C3%B1a-cada-vez-mas-humano/</link><pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2024/05/06/guadalindie-y-el-videojuego-en-espa%C3%B1a-cada-vez-mas-humano/</guid><description>&lt;p&gt;Este fin de semana estuve en la primera edición del Guadalindie, un evento en Málaga de desarrolladores de videojuegos, donde he podido ver un medio mas humano.&lt;/p&gt;</description></item><item><title>Infinigrass</title><link>https://antimundo.es/projects/infinigrass/</link><pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/infinigrass/</guid><description>&lt;div class="img-container"&gt;
+ &lt;img&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/infinigrass/title.png"&gt;
+ &lt;img&gt;
+&lt;/div&gt;
+&lt;p&gt;Las malditas malas hierbas no paran de crecer, acabo de arrancar todas las del jardín y ya están saliendo mas otra vez. Es hora de tomar cartas en el asunto&amp;hellip;&lt;/p&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/infinigrass/tutorial-1.gif"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/infinigrass/tutorial-2.gif"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/infinigrass/tutorial-3.gif"&gt;
+&lt;/div&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/infinigrass/screenshot-1.png"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/infinigrass/screenshot-2.jpg"&gt;
+&lt;/div&gt;
+&lt;h2 id="credits"&gt;Credits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://antimundo.itch.io/"&gt;Antimundo&lt;/a&gt;: Programming and game design.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hghostt.itch.io/"&gt;Helena&lt;/a&gt;: Art and UI design.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://edearth.itch.io/"&gt;Nepo&lt;/a&gt;: Game design and sound design.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;External assets used:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Music by &lt;a href="https://loyaltyfreakmusic.com/"&gt;Rrrrrose Azerty&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Komiku - Animal Summer Music Camp - 09 Acoustic shoegazy blues!&lt;/li&gt;
+&lt;li&gt;Komiku - The adventure goes on, vol.1 - 05 Sweet night and friends&lt;/li&gt;
+&lt;li&gt;Monplaisir - Devast.io Soundtrack - 01 Welcome to Devastation
+&amp;ldquo;Cha-ching!&amp;rdquo; sound from &lt;a href="https://pixabay.com/es/sound-effects/cha-ching-7053/"&gt;Pixabay&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="mermelada-jam-2"&gt;Mermelada jam 2&lt;/h2&gt;
+&lt;p&gt;Hecho para la Mermelada Jam 2.&lt;/p&gt;</description></item><item><title>La Falda de la Montaña</title><link>https://antimundo.es/projects/la-falda-de-la-monta%C3%B1a/</link><pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/la-falda-de-la-monta%C3%B1a/</guid><description>&lt;p&gt;La montaña no deja de llorar, provocando constantes avalanchas. Eres una zarigüeya y sabes que tienes que hacer algo. Es hora de escalar la montaña para enseñarle tus mejores chistes. ¡Es hora de hacerle reir y poner a todo el mundo a salvo!&lt;/p&gt;
+&lt;h3 id="málaga-jam-weekend-17"&gt;Málaga Jam Weekend 17&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://alicia-redmarr.itch.io/"&gt;Alicia Redmarr&lt;/a&gt;&lt;/strong&gt;: Diseño.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://antimundo.itch.io/"&gt;Antimundo&lt;/a&gt;&lt;/strong&gt;: Programación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://edearth.itch.io/"&gt;Nepo&lt;/a&gt;&lt;/strong&gt;: Programación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://n-e-h.itch.io/"&gt;Né&lt;/a&gt;&lt;/strong&gt;: Arte.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://itch.io/profile/krikeshh"&gt;Sara Krikech&lt;/a&gt;&lt;/strong&gt;: Arte.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>LibreAim</title><link>https://antimundo.es/projects/libreaim/</link><pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/libreaim/</guid><description>&lt;p&gt;A free and open source FPS aim trainer, made with Godot 4.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✏️ Customizable: Libre Aim is open source, and offers a lot of customization settings.&lt;/li&gt;
+&lt;li&gt;🕊️ Lightweight: This is a training tool, it doesn&amp;rsquo;t need fancy graphics, but it needs to run on low-end machines, give a high ammount of fps, and have minimal input lag.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="free-open-source"&gt;Free, open source&lt;/h2&gt;
+&lt;p&gt;Libre Aim is libre software licensed under the GPLv3 license.&lt;/p&gt;</description></item><item><title>Rat And Furrius</title><link>https://antimundo.es/projects/rat-and-furrius/</link><pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/rat-and-furrius/</guid><description>&lt;p&gt;Eres una rata, debes destruir gatos.
+Mermelada Jam 2023&lt;/p&gt;
+&lt;h3 id="hecho-para-la-mermelada-jam-2023"&gt;Hecho para la Mermelada Jam 2023.&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🥈 2º Puesto en Inventiva.&lt;/li&gt;
+&lt;li&gt;🥈 2º Puesto en Disfrute.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="temas"&gt;Temas:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tema &lt;em&gt;&amp;ldquo;Si pestañeas te lo pierdes&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;: Si los enemigos consiguen verte pierdes, eres un ratón-ninja tan rápido que te cargas a los enemigos antes de que puedan verte.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Limitación &lt;em&gt;&amp;ldquo;Tres colores&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;: Tienes armas de tres colores, debes acabar con los enemigos con el color que le corresponde.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Opcional &lt;em&gt;&amp;quot;¡Un gato!&amp;quot;&lt;/em&gt;&lt;/strong&gt;: Eres un ratón y los enemigos gatos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Opcional &lt;em&gt;&amp;ldquo;Sonidos con la boca&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;: (Algunos) sonidos están hechos con la boca.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Opcional &lt;em&gt;&amp;ldquo;Un botón&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;: Hay niveles donde debes pulsar un botón para abrir puertas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="mermelada-jam-2023"&gt;Mermelada Jam 2023&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://alicia-redmarr.itch.io/"&gt;Alicia Redmarr&lt;/a&gt;&lt;/strong&gt;: Diseño de mecánicas y niveles.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://thekreat0r.itch.io/"&gt;Krlota&lt;/a&gt;&lt;/strong&gt;: Arte.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://jodieonvoid.itch.io/"&gt;Jods&lt;/a&gt;&lt;/strong&gt;: Música y sonido.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://edearth.itch.io/"&gt;Nepo&lt;/a&gt;&lt;/strong&gt;: Programación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://antimundo.itch.io/"&gt;Antimundo&lt;/a&gt;&lt;/strong&gt;: Programación.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/rat-and-furrius/screenshot-1.jpg"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/rat-and-furrius/screenshot-2.jpg"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/rat-and-furrius/screenshot-3.jpg"&gt;
+&lt;/div&gt;</description></item><item><title>Poder Solar</title><link>https://antimundo.es/projects/poder-solar/</link><pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/poder-solar/</guid><description>&lt;p&gt;Las placas solares están muy bien ¡Pero en el pueblo nadie pensó que cuando cae la noche nos quedamos sin luz!&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://antimundo.es/images/posts/games/poder-solar/gameplay.gif" alt="gameplay"&gt;&lt;/p&gt;
+&lt;h3 id="indie-spain-jam-2023"&gt;Indie Spain Jam 2023&lt;/h3&gt;
+&lt;p&gt;Hecho para la &lt;a href="https://itch.io/jam/indie-spain-jam-23"&gt;Indie Spain Jam 2023&lt;/a&gt;, el tema principal era cae la noche y también había algunos opcionales.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Debes mantener con energía a un pueblo cuando cae la noche.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Sostenibilidad&lt;/em&gt; porque el juego trata de conseguir energía para un pueblo, sin contaminarlo, y usando energías renovables.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Automatización&lt;/em&gt; porque no haces nada activamente, solo debes poner artefactos que recogenrecursos por ti.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="créditos"&gt;Créditos&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Desarrollado por mi ¡Antimundo!&lt;/li&gt;
+&lt;li&gt;La música es de Frederic Lardon, de su album &lt;a href="https://loyaltyfreakmusic.com/music/cellphone/"&gt;Cellphone&lt;/a&gt; bajo CC0 así que es dominio público (Checkead la web de LolaylityFreakMusic si necesitáis música para juegos, porque tremendo artista).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="info-adicional"&gt;Info adicional&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Trabajo y voy a la universidad, por lo que este juego está hecho a toda prisa el fin de semana.&lt;/li&gt;
+&lt;li&gt;Es mi primer juego de jam hecho en Godot ¡Viva Godot!&lt;/li&gt;
+&lt;li&gt;Me gusta mucho Godot.&lt;/li&gt;
+&lt;li&gt;Gracias Godot por existir, te quiero Godot.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="software-libre"&gt;Software libre&lt;/h3&gt;
+&lt;p&gt;Este juego es software libre, puedes ver el código y los assets aquí: &lt;a href="https://codeberg.org/antimundo/poder-solar"&gt;codeberg.org/antimundo/poder-solar&lt;/a&gt;&lt;/p&gt;</description></item><item><title>El éxito de Godot se debe a su filosofía</title><link>https://antimundo.es/blog/2023/06/07/el-%C3%A9xito-de-godot-se-debe-a-su-filosof%C3%ADa/</link><pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2023/06/07/el-%C3%A9xito-de-godot-se-debe-a-su-filosof%C3%ADa/</guid><description>&lt;p&gt;Godot tiene un potencial increíble. Para mí, es una gran promesa del futuro de los videojuegos.&lt;/p&gt;</description></item><item><title>Mi primer trabajo como desarrollador de videojuegos</title><link>https://antimundo.es/blog/2023/04/11/mi-primer-trabajo-como-desarrollador-de-videojuegos/</link><pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2023/04/11/mi-primer-trabajo-como-desarrollador-de-videojuegos/</guid><description>&lt;p&gt;He encontrado el primer trabajo de mi vida, como desarrollador como videojuegos, aquí cuento mi experiencia.&lt;/p&gt;</description></item><item><title>Mars Arena 2</title><link>https://antimundo.es/projects/mars-arena-2/</link><pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/mars-arena-2/</guid><description>&lt;p&gt;Mars Arena 2 is a mobile rogue-lite bullet-hell, where you try to overcome waves of unique enemies with your custom spaceship.&lt;/p&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/mars-arena-2/ma2-1.jpg"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/mars-arena-2/ma2-2.jpg"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/mars-arena-2/ma2-3.jpg"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/mars-arena-2/ma2-4.jpg"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/mars-arena-2/ma2-5.jpg"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/mars-arena-2/ma2-6.jpg"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/mars-arena-2/ma2-7.jpg"&gt;
+&lt;/div&gt;
+&lt;h2 id="additional-info"&gt;Additional info&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Customize your spaceship, with 216 combinations of different parts.&lt;/li&gt;
+&lt;li&gt;Play 4 unique handmade levels + an endless level.&lt;/li&gt;
+&lt;li&gt;Free to play, no ads, no microtransactions.&lt;/li&gt;
+&lt;li&gt;Short game, you will probably complete it in about 30 minutes.&lt;/li&gt;
+&lt;li&gt;Rogue-lite mechanics, with multiple decisions every level to upgrade your ship.&lt;/li&gt;
+&lt;li&gt;Available for Android.&lt;/li&gt;
+&lt;li&gt;Made with Unity by Unity Technologies.&lt;/li&gt;
+&lt;li&gt;Languages available: Spanish, English, French.&lt;/li&gt;
+&lt;li&gt;Developed by &lt;a href="https://antimundo.es/"&gt;Antimundo&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Music by &lt;a href="https://www.abstractionmusic.com"&gt;Ben Burnes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="privacy"&gt;Privacy&lt;/h2&gt;
+&lt;p&gt;Mars Arena 2 is an offline game, and it doesn’t send any data anywhere.&lt;/p&gt;</description></item><item><title>Wikiwi postmortem</title><link>https://antimundo.es/blog/2023/02/09/wikiwi-postmortem/</link><pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2023/02/09/wikiwi-postmortem/</guid><description>&lt;p&gt;Wikiwi ha sido el juego que presentamos para la Indie Spain Jam en septiembre de 2022.&lt;/p&gt;</description></item><item><title>Fibonacci</title><link>https://antimundo.es/projects/fibonacci/</link><pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/fibonacci/</guid><description>&lt;script&gt;
+window.onload = function() {
+ fibonacci(1478, document.getElementById("fibonacci"));
+}
+
+function fibonacci(numero, element)
+{
+ let printText = "";
+ var var1 = 0;
+ var var2 = 1;
+ var var3;
+
+ printText += var1 + "\n";
+ printText += var2 + "\n";
+
+ for(var i=3; i &lt;= numero;i++)
+ {
+ var3 = var1 + var2;
+ var1 = var2;
+ var2 = var3;
+ printText += var3 + "\n";
+ }
+ element.innerText = printText;
+}
+&lt;/script&gt;
+&lt;p&gt;Este programa genera los números de la espiral de Fibonacci, no tiene ningun uso, pero mola.&lt;/p&gt;</description></item><item><title>Ruleta</title><link>https://antimundo.es/projects/ruleta/</link><pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/ruleta/</guid><description>&lt;script&gt;
+let currentMoney = 1000;
+let betMoney; 
+let isMoneyTurn = true; // true: choose money step, false: choose bet step
+let feedback;
+let feedbackMoney;
+let userText;
+// Variables used to check stats
+let countPairs = 0;
+let countOdds = 0;
+let countZeros = 0;
+const ROULETTE_NUMBERS = 36;
+
+document.addEventListener("keydown", (e) =&gt; {
+ if (e.key == "Enter"){
+ validate();
+ }
+});
+
+window.onload = function() {
+ feedback = document.getElementById("feedback");
+ feedbackMoney = document.getElementById("feedbackMoney");
+ feedbackBet = document.getElementById("feedbackBet");
+ userText = document.getElementById("userText");
+ feedbackMoney.innerText = getMoneyText(currentMoney);
+ feedback.innerText = "¿Cuánto dinero vas a apostar?";
+};
+
+function getMoneyText(money) {
+ return "Tienes " + money + "€";
+}
+
+function getBetText(bet) {
+ return "Has apostado " + bet + "€\n";
+}
+
+function validate() {
+ let answer = "";
+ let result = userText.value;
+ userText.value = "";
+ if (isMoneyTurn){
+ if (result == undefined || result == null || result == "" || isNaN(result)){
+ answer += "Esa no es una respuesta válida, escribe un número.";
+ }
+ else if (parseInt(result) &gt; currentMoney){
+ answer += "Esa no es una respuesta válida, no tienes tanto dinero.";
+ }
+ else if (parseInt(result) &lt;= 0){
+ answer += "Esa no es una respuesta válida, la cantidad mínima a apostar es 1€";
+ }
+ else if (parseInt(result) &gt; 800){
+ answer += "Esa no es una respuesta válida, la cantidad máxima a apostar es 800€";
+ }
+ else {
+ betMoney = parseInt(result);
+ userText.value = "";
+ answer += getBetText(betMoney) + "¿Vas a apostar a par, impar, o un número entre 1 y " + ROULETTE_NUMBERS + "?";
+ feedbackBet.innerText = "";
+ isMoneyTurn = false;
+ }
+ }
+ else {
+ let isBetWon = false;
+ if (
+ result == null ||
+ result == undefined ||
+ result == "" ||
+ isNaN(result) &amp;&amp; !(
+ result.toLowerCase() == "p" ||
+ result.toLowerCase() == "par" ||
+ result.toLowerCase() == "i" ||
+ result.toLowerCase() == "impar")){
+ answer += getBetText(betMoney) + "Esa no es una resputesta válida.\n¿Vas a apostar a par, impar, o un número entre 1 y " + ROULETTE_NUMBERS + "?";
+ }
+ else if (parseInt(result) &lt; 1 || parseInt(result) &gt; ROULETTE_NUMBERS){
+ answer += getBetText(betMoney) + "Ese número no es válido\n¿Vas a apostar a par, impar, o un número entre 1 y " + ROULETTE_NUMBERS + "?";
+ }
+ else if (
+ parseInt(result) &gt; 0 || 
+ parseInt(result) &lt; ROULETTE_NUMBERS ||
+ result.toLowerCase() == "p" ||
+ result.toLowerCase() == "par" ||
+ result.toLowerCase() == "i" ||
+ result.toLowerCase() == "impar"){
+ const random = getRandomIntInclusive(-1, ROULETTE_NUMBERS);
+
+ if (random &lt;= 0){
+ isBetWon = false;
+ }
+ else if (!isNaN(result)){
+ isBetWon = random == parseInt(result) &amp;&amp; random != 0;
+ if (isBetWon){
+ currentMoney += (betMoney * (ROULETTE_NUMBERS - 1));
+ }
+ }
+ else if (result.toLowerCase() == "p" || result.toLowerCase() == "par") {
+ isBetWon = random % 2 == 0;
+ if (isBetWon){
+ currentMoney += betMoney;
+ }
+ }
+ else if (result.toLowerCase() == "i" || result.toLowerCase() == "impar") {
+ isBetWon = random % 2 == 1;
+ if (isBetWon){
+ currentMoney += betMoney;
+ }
+ }
+ if (isBetWon){
+ feedbackBet.innerText = "Has ganado la apuesta, apostaste " + result + " y el resultado fue " + random + "\n";
+ feedbackBet.style.color = "green";
+ }
+ else{
+ let resultText = random;
+ if (resultText == -1){
+ resultText = "00";
+ }
+ feedbackBet.innerText = "Has perdido la apuesta, apostaste " + result + " y el resultado fue " + resultText + ".\n";
+ currentMoney -= betMoney;
+ feedbackBet.style.color = "red";
+ }
+ answer += "¿Cuánto dinero vas a apostar?";
+ 
+ if (random &lt;= 0){
+ countZeros ++;
+ }
+ else if (random % 2 == 1){
+ countPairs ++;
+ }
+ else if (random % 2 == 0){
+ countOdds ++;
+ }
+ console.log(
+ "Current money: " + currentMoney +
+ "\nBet money: " + betMoney +
+ "\nPlayer bet: " + result +
+ "\nBet result (random): " + random +
+ "\nIs bet Won: " + isBetWon +
+ "\n# Stats" +
+ "\nPairs: " + countPairs +
+ "\nOdds: " + countOdds +
+ "\nZeros: " + countZeros
+ );
+ isMoneyTurn = true;
+ }
+ }
+ feedbackMoney.innerText = getMoneyText(currentMoney);;
+ feedback.innerText = answer;
+}
+
+function getRandomIntInclusive(min, max) {
+ min = Math.ceil(min);
+ max = Math.floor(max);
+ // The maximum is inclusive and the minimum is inclusive
+ return Math.floor(Math.random() * (max - min + 1) + min); 
+}
+&lt;/script&gt;
+&lt;p&gt;Este programa simula una ruleta de casino.&lt;/p&gt;</description></item><item><title>Mis nuevos dominios en las tierras de internet</title><link>https://antimundo.es/blog/2023/01/30/mis-nuevos-dominios-en-las-tierras-de-internet/</link><pubDate>Mon, 30 Jan 2023 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2023/01/30/mis-nuevos-dominios-en-las-tierras-de-internet/</guid><description>&lt;p&gt;Desde que conozco la existencia de internet me han gustado los blogs, soy un enamorado de la idea de un internet descentralizado y libre, donde millones de personas alojan sus propios servidores.&lt;/p&gt;</description></item><item><title>Wikiwi</title><link>https://antimundo.es/projects/wikiwi/</link><pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/wikiwi/</guid><description>&lt;p&gt;El Kiwi no es muy ágil ni salta mucho ¡Usa la inercia a tu favor, juega con las físicas, y combina objetos para subir todo lo que puedas!&lt;/p&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1nLzEwMTM2NTQ0LmdpZg==/original/xdn8U6.gif"&gt;
+ &lt;img src="https://img.itch.zone/aW1nLzEwMTM2NTc4LmdpZg==/original/RWF9rn.gif"&gt;
+&lt;/div&gt;
+&lt;p&gt;Compra, vende, y organiza tus objetos en la tienda ¡experimenta con distintas combinaciones que te hagan subir lo mas rápido posible!&lt;/p&gt;
+&lt;h2 id="indie-spain-jam"&gt;Indie Spain Jam&lt;/h2&gt;
+&lt;p&gt;¡Ayuda a este kiwi que no puede volar a salir del agujero al que se ha caído! ¡Usa las físicas a tu favor!&lt;/p&gt;</description></item><item><title>¡Ahora comparto torrents!</title><link>https://antimundo.es/blog/2022/04/29/ahora-comparto-torrents/</link><pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2022/04/29/ahora-comparto-torrents/</guid><description>&lt;p&gt;Las redes descentralizadas exitían mucho antes de las criptomonedas, o los NFTs. Uno de los casos mas simples, pero útiles, es el de los torrents.&lt;/p&gt;</description></item><item><title>Cómo centrar la cámara entre varios jugadores en Unity</title><link>https://antimundo.es/blog/2022/01/13/c%C3%B3mo-centrar-la-c%C3%A1mara-entre-varios-jugadores-en-unity/</link><pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2022/01/13/c%C3%B3mo-centrar-la-c%C3%A1mara-entre-varios-jugadores-en-unity/</guid><description>&lt;p&gt;Estoy haciendo un juego multijugador local en Unity, donde aparecen 4 jugadores. Y quiero que la cámara siempre esté centrada entre ellos enfocándolos a la vez.&lt;/p&gt;</description></item><item><title>Antimundo's car prototype</title><link>https://antimundo.es/projects/antimundos-car-prototype/</link><pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/antimundos-car-prototype/</guid><description>&lt;p&gt;This is a car controller prototype, made with Unity and. All the code and 3D models are 100% made by me. It is designed to be played with a controller, not with a keyboard.&lt;/p&gt;
+&lt;h3 id="features"&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Physics based movement!&lt;/li&gt;
+&lt;li&gt;Master the drifting mechanics through the curves.&lt;/li&gt;
+&lt;li&gt;Customize your car.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="extra-tips"&gt;Extra tips&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;If your car rolls over, you can flip it back by braking or accelerating.&lt;/li&gt;
+&lt;li&gt;Press &lt;em&gt;Q&lt;/em&gt; to look back, and &lt;em&gt;Q&lt;/em&gt; to honk.&lt;/li&gt;
+&lt;li&gt;You can navigate all the menus with just a keyboard or a controller, you don&amp;rsquo;t need a mouse!&lt;/li&gt;
+&lt;li&gt;Press *ESC *to open the menu, and restart the game or go back to customize your car.&lt;/li&gt;
+&lt;li&gt;The *soft *suspension can help you navigate through the hills :)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE5ODc5My83MjAzOTA2LmpwZw==/original/sYipAY.jpg"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE5ODc5My83MjAzOTA1LmpwZw==/original/0zO5eN.jpg"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE5ODc5My83MjAzOTA3LmpwZw==/original/WcWvSl.jpg"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE5ODc5My83MjAzOTA0LmpwZw==/original/F9nM0C.jpg"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE5ODc5My83MjA0NDMyLmdpZg==/original/qk8HYX.gif"&gt;
+&lt;/div&gt;</description></item><item><title>Coches, físicas y 3D</title><link>https://antimundo.es/blog/2021/10/14/coches-f%C3%ADsicas-y-3d/</link><pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2021/10/14/coches-f%C3%ADsicas-y-3d/</guid><description>&lt;p&gt;Tras cumplir un año de &lt;a href="https://antimundo.itch.io/mapanator"&gt;mi primer lanzamiento en itch.io&lt;/a&gt; pensé que ya era hora de hacer mi primer juego en 3D.&lt;/p&gt;</description></item><item><title>Villajunto</title><link>https://antimundo.es/projects/villajunto/</link><pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/villajunto/</guid><description>&lt;p&gt;Ayuda a los habitantes de tu pueblo para que se unan en tu lucha contra el rey.&lt;/p&gt;
+&lt;p&gt;Hecho para la &lt;a href="https://itch.io/jam/spain-game-devs-jam-iii"&gt;Spanish Game Devs Jam III&lt;/a&gt;, el tema era, &lt;em&gt;unión&lt;/em&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Programación: &lt;a href="https://antimundo.itch.io/"&gt;Antimundo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ilustración: &lt;a href="https://www.instagram.com/krikeshh/"&gt;Sara Krikech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Doblaje: Fernando Martín (&lt;em&gt;&lt;a href="mailto:Fernandomarrtinloc@gmail.com"&gt;Fernandomarrtinloc@gmail.com&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Música: &lt;a href="https://loyaltyfreakmusic.com/"&gt;Rrrrrose Azerty&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTIwODc5Mi83MDY4NjEzLnBuZw==/original/XDj34u.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTIwODc5Mi83MDY4NjE0LnBuZw==/original/Dblxcf.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTIwODc5Mi83MDY4NjE1LnBuZw==/original/%2Bcuseg.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTIwODc5Mi83MDY4NjEyLnBuZw==/original/VDVLo4.png"&gt;
+&lt;/div&gt;</description></item><item><title>Villajunto, mi primer juego conjunto</title><link>https://antimundo.es/blog/2021/09/26/villajunto-mi-primer-juego-conjunto/</link><pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2021/09/26/villajunto-mi-primer-juego-conjunto/</guid><description>&lt;p&gt;Hace tiempo que hago videojuegos, aunque siempre me he sentido un poco solitario en el mundillo. Llevo tiempo siguiendo el mismo ciclo: Se me ocurre una idea, la termino, se la enseño a alguna persona, y vuelta a empezar.&lt;/p&gt;</description></item><item><title>Cashlang</title><link>https://antimundo.es/projects/cashlang/</link><pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/cashlang/</guid><description>&lt;p&gt;Learn vocabulary of three different languages, and twelve diferent categories. Try to make a big combo by guessing as many words as you can.&lt;/p&gt;
+&lt;p&gt;Supported languages: spanish, english, french.&lt;/p&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE1MjUzNS82NzI0Mzk2LnBuZw==/original/NgH%2BH5.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE1MjUzNS82NzI0Mzk1LnBuZw==/original/oneSBM.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE1MjUzNS82NzI0Mzk3LnBuZw==/original/zd9EYB.png"&gt;
+&lt;/div&gt;</description></item><item><title>Mars Arena</title><link>https://antimundo.es/projects/mars-arena/</link><pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/mars-arena/</guid><description>&lt;p&gt;Customize your ship, and try to survive as long as you can. Try different combinations, and choose wisely the upgrades you make around your jurney.
+Mars Arena is 100% free game, without any ads or microtransactions.&lt;/p&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE0OTIwNC82Njc1MDQxLnBuZw==/original/5kaKce.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE0OTIwNC82Njc1MDQyLnBuZw==/original/ISJT4V.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE0OTIwNC82Njc1MDQzLnBuZw==/original/TpXDB1.png"&gt;
+&lt;/div&gt;</description></item><item><title>A Wheel Game</title><link>https://antimundo.es/projects/a-wheel-game/</link><pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/a-wheel-game/</guid><description>&lt;p&gt;You are a wheel, try to complete the levels as fast as you can!&lt;/p&gt;
+&lt;p&gt;I made this game to test Unity physics, mobile game controles, and JSON save format.&lt;/p&gt;
+&lt;p&gt;In terms of accesibility, the game has high contrast colors, you can customize your touchscreen controlls, play with a keyboard, or with a controller. And the game has no text, so everything is indicated with just icons.&lt;/p&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE0NTk3NC82NjUyMDk0LmpwZw==/original/2c9Fzp.jpg"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE0NTk3NC82NjUyMDkzLmpwZw==/original/favCjE.jpg"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE0NTk3NC82NjUyMDk1LmpwZw==/original/w%2BIpmN.jpg"&gt;
+&lt;/div&gt;</description></item><item><title>Todo lo que sabemos sobre Battlefield 2021</title><link>https://antimundo.es/blog/2021/06/06/todo-lo-que-sabemos-sobre-battlefield-2021/</link><pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2021/06/06/todo-lo-que-sabemos-sobre-battlefield-2021/</guid><description>&lt;p&gt;Battlefield V me ha dejado con bastante mal sabor de boca, y llevamos desde Battlefield 4, que salió en 2013 (hace 8 años) sin tener en nuestras manos un título de la saga ambientado en una época moderna.&lt;/p&gt;</description></item><item><title>Firefox se renueva con un nuevo diseño</title><link>https://antimundo.es/blog/2021/06/05/firefox-se-renueva-con-un-nuevo-dise%C3%B1o/</link><pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2021/06/05/firefox-se-renueva-con-un-nuevo-dise%C3%B1o/</guid><description>&lt;p&gt;Hace años que todos los navegadores tienen diseños idénticos, las mejoras con cada actualización suelen ser insustanciales para el usuario final.&lt;/p&gt;</description></item><item><title>Anonym-OS</title><link>https://antimundo.es/projects/anonym-os/</link><pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/anonym-os/</guid><description>&lt;p&gt;Hecho para la &lt;a href="https://itch.io/jam/por-que-jam-i"&gt;por qué gamejam&lt;/a&gt;, el tema era, el &lt;em&gt;anonimato&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Controla lo que los demás ven sobre ti en las redes sociales, para que no vean aquello que quieres ocultarles. Cada persona tiene unos gustos, a tu abuelo le gusta verte buscar trabajo en internet, pero no que pierdas el tiempo subiendo memes.&lt;/p&gt;
+&lt;p&gt;Cada persona quiere ver unas cosas de ti, tu objetivo es mostrarles lo que quieren ver para tener una buena relación con ellos.&lt;/p&gt;</description></item><item><title>Tree Rescuer</title><link>https://antimundo.es/projects/tree-rescuer/</link><pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/tree-rescuer/</guid><description>&lt;p&gt;This game was made for the &lt;a href="https://itch.io/jam/make-a-level-may"&gt;Make A Level Jam&lt;/a&gt;, the theme was &lt;em&gt;emergency&lt;/em&gt;, so I made a game where you have to save trees from diferent emergencies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fire: Use a fire extinguisher to stop it.&lt;/li&gt;
+&lt;li&gt;Dryness: Avoid it with a watering can.&lt;/li&gt;
+&lt;li&gt;Bees: use a spray to kick them out.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="controls"&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Move: WASD, or arrow keys.&lt;/li&gt;
+&lt;li&gt;Use object: Mouse click, E, or M&lt;/li&gt;
+&lt;li&gt;Drop / swap object: Right mouse click, Q, or N&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTAzMzg1Ni81OTEwMjI3LnBuZw==/347x500/masTCt.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTAzMzg1Ni81OTEwMzI4LnBuZw==/original/%2Bl6XZw.png"&gt;
+&lt;/div&gt;</description></item><item><title>Bulleya</title><link>https://antimundo.es/projects/bulleya/</link><pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/bulleya/</guid><description>&lt;p&gt;A different bullet hell game every 10 seconds.&lt;br&gt;
+Inspired by &lt;a href="https://majorariatto.itch.io/pureya"&gt;Pureya&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This game was made in only 10 hours, using Unity, and Inkscape made for the &lt;a href="https://itch.io/jam/bullet-jam-2021"&gt;Bullet Hell Jam 2021&lt;/a&gt;. But later improved by adding some polish, new sounds, and a new minigame.&lt;/p&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTAwNzIxMS81NzQyODQ4LnBuZw==/original/rl83Mg.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTAwNzIxMS81NzQyOTMxLmdpZg==/original/QWiPKk.gif"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTAwNzIxMS81NzQ2NTkyLnBuZw==/original/g5C%2FKH.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTAwNzIxMS81NzQ2NTkwLnBuZw==/original/6fdwUr.png"&gt;
+&lt;/div&gt;</description></item><item><title>Shooty Bob</title><link>https://antimundo.es/projects/shooty-bob/</link><pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/shooty-bob/</guid><description>&lt;p&gt;Bob is a guy who shoots ufos for no reason, destroy them before they fall, and get as many points as you can!
+Shooty Bob is 100% free game, without any ads or microtransactions.
+It&amp;rsquo;s been made by a spanish solo indie developer, is the first phone game i make, I hope you enjoy it :)&lt;/p&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvOTEzMzQxLzUxNjMyMDUucG5n/original/LfWcUp.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvOTEzMzQxLzUxNjMyMDYucG5n/original/8Df6iV.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvOTEzMzQxLzUxNjMyMDcucG5n/original/mNwlFX.png"&gt;
+&lt;/div&gt;</description></item><item><title>Dimension Swapper</title><link>https://antimundo.es/projects/dimension-swapper/</link><pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/dimension-swapper/</guid><description>&lt;p&gt;&lt;strong&gt;Press E&lt;/strong&gt; to swipe between dimensions**.**&lt;/p&gt;
+&lt;h2 id="dimension-swapper"&gt;Dimension Swapper&lt;/h2&gt;
+&lt;p&gt;This game was made for my first gamejam! The &lt;a href="https://itch.io/jam/nokiajam3"&gt;Nokia Jam 3&lt;/a&gt;. The theme was ON / OFF, so i made this game where you swipe between two dimensions to turn platforms on and off.&lt;/p&gt;
+&lt;p&gt;Its a very simple and short game, but it&amp;rsquo;s made with tons of love, and I hope you enjoy it and have fun :D&lt;/p&gt;
+&lt;p&gt;I made it with Unity 2019.4.17, and the assets were made using Gimp.&lt;/p&gt;</description></item><item><title>Pitagunas</title><link>https://antimundo.es/projects/pitagunas/</link><pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/pitagunas/</guid><description>&lt;p&gt;Top down shooter about a triangle called Pitagunas.&lt;/p&gt;
+&lt;h3 id="controls"&gt;Controls&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1, 2, 3 To switch weapons.&lt;/li&gt;
+&lt;li&gt;Shit / Q to do a dash.&lt;/li&gt;
+&lt;li&gt;W to accelerate.&lt;/li&gt;
+&lt;li&gt;Click to shoot&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="info"&gt;Info&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Objective: Collect pentagons.&lt;/li&gt;
+&lt;li&gt;Motivations: none of them.&lt;/li&gt;
+&lt;li&gt;Engine: Unity 2019.4.11&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvODE0Nzc0LzQ1Njg5NjcuanBn/original/%2BPJikE.jpg"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvODE0Nzc0LzQ1Njg5NjguanBn/original/aL5bSx.jpg"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvODE0Nzc0LzQ1Njg5NjkuanBn/original/9h11kM.jpg"&gt;
+&lt;/div&gt;</description></item><item><title>Mapanator</title><link>https://antimundo.es/projects/mapanator/</link><pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/mapanator/</guid><description>&lt;p&gt;&lt;strong&gt;Mapanator&lt;/strong&gt; es un juego para aprender geografía.&lt;/p&gt;
+&lt;p&gt;Tu objetivo es averiguar los lugares que te dicen sin equivocarte, para acabar con la mayor cantidad de puntos.&lt;/p&gt;
+&lt;p&gt;El juego está hecho en Unity  2019.4.f1, programado en C#, y las imágenes editadas en GIMP. Es el primer juego que publico, así que espero que os guste :D&lt;/p&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvNzY4NzkyLzUxNTgzNjAucG5n/original/SZjCAb.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvNzY4NzkyLzUxNTgzNzMucG5n/original/4jfP1x.png"&gt;
+&lt;/div&gt;</description></item><item><title>Guía VRChat trucos y consejos</title><link>https://antimundo.es/blog/2020/09/05/gu%C3%ADa-vrchat-trucos-y-consejos/</link><pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/09/05/gu%C3%ADa-vrchat-trucos-y-consejos/</guid><description>&lt;p&gt;El VRChat es un juego en el que no ganas o pierdes, no hay ningún objetivo fijo mas allá de conocer gente y pasarlo bien.&lt;/p&gt;</description></item><item><title>El precio de las gráficas cae a mínimos históricos</title><link>https://antimundo.es/blog/2020/09/04/el-precio-de-las-gr%C3%A1ficas-cae-a-m%C3%ADnimos-hist%C3%B3ricos/</link><pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/09/04/el-precio-de-las-gr%C3%A1ficas-cae-a-m%C3%ADnimos-hist%C3%B3ricos/</guid><description>&lt;p&gt;Las RTX 3000 llegan pisando fuerte, sus precios son mucho mas bajos que en la generación anterior. Y el mercado de segunda mano se ha visto muy afectado.&lt;/p&gt;</description></item><item><title>Curso express de Python</title><link>https://antimundo.es/blog/2020/07/30/curso-express-de-python/</link><pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/07/30/curso-express-de-python/</guid><description>&lt;p&gt;Python es el tercer lenguaje de progrmación mas popular del mundo &lt;a href="https://www.tiobe.com/tiobe-index/"&gt;según el TIOBE&lt;/a&gt; y además es bastante sencillo de aprender, perfecto para gente que quiera aprender a programar desde 0.&lt;/p&gt;</description></item><item><title>Apple se separa de Intel</title><link>https://antimundo.es/blog/2020/04/26/apple-se-separa-de-intel/</link><pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/04/26/apple-se-separa-de-intel/</guid><description>&lt;p&gt;Lejos quedan los tiempos en los que Apple usaba procesadores de IBM o Motorola. En 2005 empezaron a transicionar hacia Intel, y en 2009 dejaron de vender ordenadores con chips de otra marca.&lt;/p&gt;</description></item><item><title>Cómo afectarán los SSDs de las nuevas consolas al PC Gaming</title><link>https://antimundo.es/blog/2020/04/25/c%C3%B3mo-afectar%C3%A1n-los-ssds-de-las-nuevas-consolas-al-pc-gaming/</link><pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/04/25/c%C3%B3mo-afectar%C3%A1n-los-ssds-de-las-nuevas-consolas-al-pc-gaming/</guid><description>&lt;p&gt;La nueva generación de consolas ha sido anunciada para finales de este 2020. Esto va a tener fuertes repercusiones en el mundo del PC gaming en los próximos años, analicemos cuales.&lt;/p&gt;</description></item><item><title>Publican el código de CSGO Y TF2</title><link>https://antimundo.es/blog/2020/04/23/publican-el-c%C3%B3digo-de-csgo-y-tf2/</link><pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/04/23/publican-el-c%C3%B3digo-de-csgo-y-tf2/</guid><description>&lt;p&gt;En 2003 se filtró todo el código de Half Life 2 cuando ni si quiera había saldo al mercado. Parece que Valve ha vuelto a caer en el mismo error, esta vez los afectados han sido &lt;em&gt;Counter-Strike: Global Offensive&lt;/em&gt; y &lt;em&gt;Team Fortress 2&lt;/em&gt;.&lt;/p&gt;</description></item><item><title>Cómo tener la misma sensibilidad en todos los juegos</title><link>https://antimundo.es/blog/2020/04/21/c%C3%B3mo-tener-la-misma-sensibilidad-en-todos-los-juegos/</link><pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/04/21/c%C3%B3mo-tener-la-misma-sensibilidad-en-todos-los-juegos/</guid><description>&lt;p&gt;Soy jugador de Counter Strike, es donde mejor puntería tengo, y el juego donde me he acostumbrado a la sensibilidad que me he puesto.&lt;/p&gt;</description></item><item><title>Cómo jugar a Kurletán</title><link>https://antimundo.es/blog/2020/03/02/c%C3%B3mo-jugar-a-kurlet%C3%A1n/</link><pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/03/02/c%C3%B3mo-jugar-a-kurlet%C3%A1n/</guid><description>&lt;p&gt;Kurletán es un juego de rol gratuito muy sencillo, que he creado para ayudar a los novatos en sus comienzos. Las normas son sencillas, y he preparado todo el material para que puedas comenzar sin comerte el coco.&lt;/p&gt;</description></item><item><title>Cómo limpiar Windows de bloatware</title><link>https://antimundo.es/blog/2020/02/21/c%C3%B3mo-limpiar-windows-de-bloatware/</link><pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/02/21/c%C3%B3mo-limpiar-windows-de-bloatware/</guid><description>&lt;p&gt;Hoy os traigo un post rápido sobre cómo quitar las aplicaciones innecesarias que nos instala Windows 10 por defecto, que por suerte se pueden borrar facilmente.
+Usando powershell&lt;/p&gt;</description></item><item><title>Por qué no puedes ganar a la ruleta</title><link>https://antimundo.es/blog/2020/02/16/por-qu%C3%A9-no-puedes-ganar-a-la-ruleta/</link><pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/02/16/por-qu%C3%A9-no-puedes-ganar-a-la-ruleta/</guid><description>&lt;p&gt;En el mundo de las apuestas, existe el dicho de que la banca siempre gana. Evidentemente tienen que ganar dinero de alguna forma, los casinos no son ONGs que vayan a darte dinero porque si.&lt;/p&gt;</description></item><item><title>Cosas que deberían mejorar de Windows 10</title><link>https://antimundo.es/blog/2020/02/13/cosas-que-deber%C3%ADan-mejorar-de-windows-10/</link><pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/02/13/cosas-que-deber%C3%ADan-mejorar-de-windows-10/</guid><description>&lt;p&gt;Hablemos de las cosas que me echan para atrás de Windows 10, voy a obviar cosas como que no sea de código abierto, porque es parte de la propia naturaleza del producto, y es obvio que no se puede hacer nada para cambiarlo.&lt;/p&gt;</description></item><item><title>Apple vende mas relojes que todas las relojerías suizas juntas</title><link>https://antimundo.es/blog/2020/02/10/apple-vende-mas-relojes-que-todas-las-relojer%C3%ADas-suizas-juntas/</link><pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/02/10/apple-vende-mas-relojes-que-todas-las-relojer%C3%ADas-suizas-juntas/</guid><description>&lt;p&gt;Los smartwatches nacieron hace unos cuantos años, para llevar la tecnología de iOS y Android a nuestras muñecas, y parece que no solo fue una moda pasajera, si no que es un mercado al alza.&lt;/p&gt;</description></item><item><title>ATX12VO Nos hará cambiar de fuente de alimentación</title><link>https://antimundo.es/blog/2020/02/07/atx12vo-nos-har%C3%A1-cambiar-de-fuente-de-alimentaci%C3%B3n/</link><pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/02/07/atx12vo-nos-har%C3%A1-cambiar-de-fuente-de-alimentaci%C3%B3n/</guid><description>&lt;p&gt;Desde 1995 no ocurría ningún cambio significativo en las fuentes de alimentación. Intel ha traido este estandar que probablemente empecemos a ver dentro de 1 o 2 años, y nos obligará a cambiar de fuente de almientación, porque las actuales ya no serán compatibles.&lt;/p&gt;</description></item><item><title>Por qué Amd se está cargando a Intel</title><link>https://antimundo.es/blog/2020/01/31/por-qu%C3%A9-amd-se-est%C3%A1-cargando-a-intel/</link><pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/01/31/por-qu%C3%A9-amd-se-est%C3%A1-cargando-a-intel/</guid><description>&lt;p&gt;En Junio de 2017 compré mi ordenador. ¿Su procesador? Un i5-7600k. AMD había anunciado Ryzen hace poco, pero se hablaba de problemas de voltajes, latencia con las memorias, errores de BIOS… Problemas de los cuales no quería hacerme cargo. Fui a por Intel, la vieja confiable.&lt;/p&gt;</description></item><item><title>La evolución de Windows 10</title><link>https://antimundo.es/blog/2020/01/27/la-evoluci%C3%B3n-de-windows-10/</link><pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/01/27/la-evoluci%C3%B3n-de-windows-10/</guid><description>&lt;p&gt;Windows 95, 98, Me, XP, Vista, 7, 8, y ahora Windows 10. Cada pocos años suele venir una nueva versión. Sin embargo llevamos 5 años al lado de la última entrega de este sistema operativo, y no parece que Microsoft tenga planes de lanzar un sustituto.&lt;/p&gt;</description></item><item><title>Las gráficas integradas son una maravilla</title><link>https://antimundo.es/blog/2020/01/24/las-gr%C3%A1ficas-integradas-son-una-maravilla/</link><pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/01/24/las-gr%C3%A1ficas-integradas-son-una-maravilla/</guid><description>&lt;p&gt;Las tarjetas gráficas son una parte esencial de un ordenador, si vas a usarlo para edición de vídeo, modelado 3D, o jugar a videojuegos. Pero lamentablemente en los últimos años también son famosas por haber alcanzado unos precios desorbitados.&lt;/p&gt;</description></item><item><title>El nuevo Microsoft Edge</title><link>https://antimundo.es/blog/2020/01/20/el-nuevo-microsoft-edge/</link><pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/01/20/el-nuevo-microsoft-edge/</guid><description>&lt;p&gt;En 2015, Microsoft Edge vino para sustituir al veterano Internet Explorer. Sin embargo, el nuevo navegador por defecto de Windows, no tuvo el éxito esperado. Y actualmente la mayoría de los usuarios lo usan simplemente para instalar algún otro navegador.&lt;/p&gt;</description></item><item><title>Intel se hunde en el Ces 2020</title><link>https://antimundo.es/blog/2020/01/17/intel-se-hunde-en-el-ces-2020/</link><pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/01/17/intel-se-hunde-en-el-ces-2020/</guid><description>&lt;p&gt;En Junio de 2017 compré mi ordenador. ¿Su procesador? Un i5-7600k. AMD había anunciado Ryzen hace poco, pero se hablaba de problemas de voltajes, latencia con las memorias, errores de BIOS… Problemas de los cuales no quería hacerme cargo. Fui a por Intel, la vieja confiable.&lt;/p&gt;</description></item><item><title>El problema con los juegos baratos</title><link>https://antimundo.es/blog/2020/01/10/el-problema-con-los-juegos-baratos/</link><pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/01/10/el-problema-con-los-juegos-baratos/</guid><description>&lt;p&gt;En 2017 decidí que era hora de jubilar a mi vieja PlayStation 3, que ya cumplía una década. Fue entonces cuando me encontré en la disyuntiva entre comprar la nueva PlayStation 4, o montarme un ordenador.&lt;/p&gt;</description></item><item><title>El nuevo limitador de Nvidia y los streams</title><link>https://antimundo.es/blog/2020/01/07/el-nuevo-limitador-de-nvidia-y-los-streams/</link><pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/01/07/el-nuevo-limitador-de-nvidia-y-los-streams/</guid><description>&lt;p&gt;Nvidia ha publicado tras su conferencia en el CES 2020 la versión 441.87 de sus drivers. Una de las novedades, es una &lt;a href="https://www.engadget.com/2020/01/06/nvidia-geforce-drivers-framerate-cap-ces-2020/?guccounter=1&amp;amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;amp;guce_referrer_sig=AQAAAL3sJa9CSB2rKpheb79soMRXo2_veSDEmKQ16bR2ytSAYg7vfN7W5IxOuUYqF5kI5m2XvbK9dj0-4L6GP_zuPB2CMin9u-7bha1dEcIpQ8ghBLMg__vXs8AY0HhKNo8X2TApB9YmXEtTzpGv_3zCvbc23JzLOLI_rXZY9kzi-n0V"&gt;función para limitar los FPS&lt;/a&gt; (fotogramas por segundo) en los juegos.&lt;/p&gt;</description></item><item><title>Windows 7 morirá En 2020</title><link>https://antimundo.es/blog/2020/01/03/windows-7-morir%C3%A1-en-2020/</link><pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2020/01/03/windows-7-morir%C3%A1-en-2020/</guid><description>&lt;p&gt;Microsoft dejó de dar soporte a Windows 8, XP y Vista en los últimos años. Ahora es el turno de Windows 7, que no recibirá mas actualizaciones a partir del 14 de enero de 2020.&lt;/p&gt;</description></item><item><title>El por qué de este blog</title><link>https://antimundo.es/blog/2019/12/30/el-por-qu%C3%A9-de-este-blog/</link><pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate><guid>https://antimundo.es/blog/2019/12/30/el-por-qu%C3%A9-de-este-blog/</guid><description>&lt;p&gt;Cuando tenía 15 años, hice el camino de Santiago con mi tío. Un día pedimos indicaciones a un pueblerino para que nos guiase en nuestro viaje. Aquel hombre debía estar aburrido ese día o algo, porque sin venir a cuento, nos recitó un monólogo sobre su vida, y cómo había acabado viviendo en ese pueblo.&lt;/p&gt;</description></item><item><title>Sobre mí</title><link>https://antimundo.es/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://antimundo.es/about/</guid><description>&lt;img src="https://antimundo.es/images/about/character.png" style="display:block; margin:0 auto;"&gt;
+&lt;p&gt;¡Buenas! Soy Antimundo, un desarrollador de software de Madrid especialmente interesado en la educación, accesibilidad, y cultura libre 🌱.&lt;/p&gt;
+&lt;p&gt;Dedico gran parte de mi tiempo a contribuir en proyectos de software y cultura libre. Puedes ver alguna de mis contribuciones en &lt;a href="https://codeberg.org/antimundo"&gt;Codeberg&lt;/a&gt;; también colaboro en &lt;a href="https://www.openstreetmap.org"&gt;OpenStreetMap&lt;/a&gt; y en la &lt;a href="https://es.wikipedia.org"&gt;Wikipedia en español&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Hago videojuegos que puedes probar en mi &lt;a href="https://antimundo.itch.io/"&gt;itch.io&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://antimundo.es/images/about/repair.gif" alt="Right to repair"&gt;
+&lt;img src="https://antimundo.es/images/about/rainbow.gif" alt="Rainbow"&gt;
+&lt;img src="https://antimundo.es/images/about/education.gif" alt="Public education"&gt;
+&lt;img src="https://antimundo.es/images/about/godot.gif" alt="Godot robot"&gt;
+&lt;img src="https://antimundo.es/images/about/linux.gif" alt="Powered by Linux"&gt;
+&lt;img src="https://antimundo.es/images/about/riscv.gif" alt="Risc V"&gt;
+&lt;img src="https://antimundo.es/images/about/esp.gif" alt="Web en español"&gt;
+&lt;img src="https://antimundo.es/images/about/nokorpo.gif" alt="Nokorpo"&gt;
+&lt;img src="https://antimundo.es/images/about/noai.gif" alt="No AI used"&gt;
+&lt;img src="https://antimundo.es/images/about/train.gif" alt="Train"&gt;
+&lt;img src="https://antimundo.es/images/about/doom.gif" alt="Doom"&gt;&lt;/p&gt;</description></item></channel></rss>

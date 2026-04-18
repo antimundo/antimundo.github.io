@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  margin: auto;
+  background: #faf7f2;
+  color: #181717;
+}
+/* Default (desktop) */
+main {
+  padding: 0;
+  max-width: 800px;
+  margin: auto;
+
+}
+a {
+  color: rgb(0, 129, 32);
+  text-decoration: none;
+}
+
+/* Mobile */
+@media (max-width: 800px) {
+  main {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}

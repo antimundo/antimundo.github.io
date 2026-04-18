@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mis juegos on Antimundo</title><link>https://antimundo.es/projects/</link><description>Recent content in Mis juegos on Antimundo</description><generator>Hugo</generator><language>es</language><lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://antimundo.es/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Antimundo's Godot basic projects</title><link>https://antimundo.es/projects/antimundos-godot-basic-projects/</link><pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/antimundos-godot-basic-projects/</guid><description>&lt;p&gt;This is a collection of open source games I made with Godot. Aimed to be very simple sample projects for Godot newcommers.&lt;/p&gt;
+&lt;h2 id="choose-your-own-adventure"&gt;&lt;a href="https://codeberg.org/antimundo/choose-your-own-adventure"&gt;Choose your own adventure&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Choose your own adventure video game made with Godot 4.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://codeberg.org/antimundo/choose-your-own-adventure/media/branch/main/images/0.svg" alt=""&gt;&lt;/p&gt;
+&lt;h2 id="flappy-bird-clone"&gt;&lt;a href="https://codeberg.org/antimundo/flappy-bird-clone"&gt;Flappy Bird Clone&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Simple flappy bird clone made with Godot 4.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://codeberg.org/antimundo/flappy-bird-clone/media/branch/main/gameplay.gif" alt=""&gt;&lt;/p&gt;
+&lt;h2 id="top-down-shooter"&gt;&lt;a href="https://codeberg.org/antimundo/top-down-shooter"&gt;Top Down Shooter&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Generic 3D top down shooter video game made with Godot 4.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://codeberg.org/antimundo/top-down-shooter/media/branch/main/screenshot.jpg" alt=""&gt;&lt;/p&gt;</description></item><item><title>Antimundo's dozenal arithmetic website</title><link>https://antimundo.es/projects/antimundos-dozenal-arithmetic-website/</link><pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/antimundos-dozenal-arithmetic-website/</guid><description>&lt;script&gt;
+function redirect() {
+ location.replace("https://antimundo.codeberg.page/antimundos-dozenal-arithmetic-website/")
+}
+redirect()
+&lt;/script&gt;</description></item><item><title>Spain into the Fediverse</title><link>https://antimundo.es/projects/spain-into-the-fediverse/</link><pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/spain-into-the-fediverse/</guid><description>&lt;script&gt;
+function redirect() {
+ location.replace("https://nokorpo.codeberg.page/spain-into-the-fediverse/")
+}
+redirect()
+&lt;/script&gt;</description></item><item><title>Infinigrass</title><link>https://antimundo.es/projects/infinigrass/</link><pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/infinigrass/</guid><description>&lt;div class="img-container"&gt;
+ &lt;img&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/infinigrass/title.png"&gt;
+ &lt;img&gt;
+&lt;/div&gt;
+&lt;p&gt;Las malditas malas hierbas no paran de crecer, acabo de arrancar todas las del jardín y ya están saliendo mas otra vez. Es hora de tomar cartas en el asunto&amp;hellip;&lt;/p&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/infinigrass/tutorial-1.gif"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/infinigrass/tutorial-2.gif"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/infinigrass/tutorial-3.gif"&gt;
+&lt;/div&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/infinigrass/screenshot-1.png"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/infinigrass/screenshot-2.jpg"&gt;
+&lt;/div&gt;
+&lt;h2 id="credits"&gt;Credits&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://antimundo.itch.io/"&gt;Antimundo&lt;/a&gt;: Programming and game design.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hghostt.itch.io/"&gt;Helena&lt;/a&gt;: Art and UI design.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://edearth.itch.io/"&gt;Nepo&lt;/a&gt;: Game design and sound design.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;External assets used:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Music by &lt;a href="https://loyaltyfreakmusic.com/"&gt;Rrrrrose Azerty&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Komiku - Animal Summer Music Camp - 09 Acoustic shoegazy blues!&lt;/li&gt;
+&lt;li&gt;Komiku - The adventure goes on, vol.1 - 05 Sweet night and friends&lt;/li&gt;
+&lt;li&gt;Monplaisir - Devast.io Soundtrack - 01 Welcome to Devastation
+&amp;ldquo;Cha-ching!&amp;rdquo; sound from &lt;a href="https://pixabay.com/es/sound-effects/cha-ching-7053/"&gt;Pixabay&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="mermelada-jam-2"&gt;Mermelada jam 2&lt;/h2&gt;
+&lt;p&gt;Hecho para la Mermelada Jam 2.&lt;/p&gt;</description></item><item><title>La Falda de la Montaña</title><link>https://antimundo.es/projects/la-falda-de-la-monta%C3%B1a/</link><pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/la-falda-de-la-monta%C3%B1a/</guid><description>&lt;p&gt;La montaña no deja de llorar, provocando constantes avalanchas. Eres una zarigüeya y sabes que tienes que hacer algo. Es hora de escalar la montaña para enseñarle tus mejores chistes. ¡Es hora de hacerle reir y poner a todo el mundo a salvo!&lt;/p&gt;
+&lt;h3 id="málaga-jam-weekend-17"&gt;Málaga Jam Weekend 17&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://alicia-redmarr.itch.io/"&gt;Alicia Redmarr&lt;/a&gt;&lt;/strong&gt;: Diseño.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://antimundo.itch.io/"&gt;Antimundo&lt;/a&gt;&lt;/strong&gt;: Programación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://edearth.itch.io/"&gt;Nepo&lt;/a&gt;&lt;/strong&gt;: Programación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://n-e-h.itch.io/"&gt;Né&lt;/a&gt;&lt;/strong&gt;: Arte.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://itch.io/profile/krikeshh"&gt;Sara Krikech&lt;/a&gt;&lt;/strong&gt;: Arte.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>LibreAim</title><link>https://antimundo.es/projects/libreaim/</link><pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/libreaim/</guid><description>&lt;p&gt;A free and open source FPS aim trainer, made with Godot 4.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;✏️ Customizable: Libre Aim is open source, and offers a lot of customization settings.&lt;/li&gt;
+&lt;li&gt;🕊️ Lightweight: This is a training tool, it doesn&amp;rsquo;t need fancy graphics, but it needs to run on low-end machines, give a high ammount of fps, and have minimal input lag.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="free-open-source"&gt;Free, open source&lt;/h2&gt;
+&lt;p&gt;Libre Aim is libre software licensed under the GPLv3 license.&lt;/p&gt;</description></item><item><title>Rat And Furrius</title><link>https://antimundo.es/projects/rat-and-furrius/</link><pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/rat-and-furrius/</guid><description>&lt;p&gt;Eres una rata, debes destruir gatos.
+Mermelada Jam 2023&lt;/p&gt;
+&lt;h3 id="hecho-para-la-mermelada-jam-2023"&gt;Hecho para la Mermelada Jam 2023.&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🥈 2º Puesto en Inventiva.&lt;/li&gt;
+&lt;li&gt;🥈 2º Puesto en Disfrute.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="temas"&gt;Temas:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tema &lt;em&gt;&amp;ldquo;Si pestañeas te lo pierdes&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;: Si los enemigos consiguen verte pierdes, eres un ratón-ninja tan rápido que te cargas a los enemigos antes de que puedan verte.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Limitación &lt;em&gt;&amp;ldquo;Tres colores&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;: Tienes armas de tres colores, debes acabar con los enemigos con el color que le corresponde.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Opcional &lt;em&gt;&amp;quot;¡Un gato!&amp;quot;&lt;/em&gt;&lt;/strong&gt;: Eres un ratón y los enemigos gatos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Opcional &lt;em&gt;&amp;ldquo;Sonidos con la boca&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;: (Algunos) sonidos están hechos con la boca.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Opcional &lt;em&gt;&amp;ldquo;Un botón&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;: Hay niveles donde debes pulsar un botón para abrir puertas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="mermelada-jam-2023"&gt;Mermelada Jam 2023&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://alicia-redmarr.itch.io/"&gt;Alicia Redmarr&lt;/a&gt;&lt;/strong&gt;: Diseño de mecánicas y niveles.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://thekreat0r.itch.io/"&gt;Krlota&lt;/a&gt;&lt;/strong&gt;: Arte.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://jodieonvoid.itch.io/"&gt;Jods&lt;/a&gt;&lt;/strong&gt;: Música y sonido.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://edearth.itch.io/"&gt;Nepo&lt;/a&gt;&lt;/strong&gt;: Programación.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://antimundo.itch.io/"&gt;Antimundo&lt;/a&gt;&lt;/strong&gt;: Programación.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/rat-and-furrius/screenshot-1.jpg"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/rat-and-furrius/screenshot-2.jpg"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/rat-and-furrius/screenshot-3.jpg"&gt;
+&lt;/div&gt;</description></item><item><title>Poder Solar</title><link>https://antimundo.es/projects/poder-solar/</link><pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/poder-solar/</guid><description>&lt;p&gt;Las placas solares están muy bien ¡Pero en el pueblo nadie pensó que cuando cae la noche nos quedamos sin luz!&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://antimundo.es/images/posts/games/poder-solar/gameplay.gif" alt="gameplay"&gt;&lt;/p&gt;
+&lt;h3 id="indie-spain-jam-2023"&gt;Indie Spain Jam 2023&lt;/h3&gt;
+&lt;p&gt;Hecho para la &lt;a href="https://itch.io/jam/indie-spain-jam-23"&gt;Indie Spain Jam 2023&lt;/a&gt;, el tema principal era cae la noche y también había algunos opcionales.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Debes mantener con energía a un pueblo cuando cae la noche.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Sostenibilidad&lt;/em&gt; porque el juego trata de conseguir energía para un pueblo, sin contaminarlo, y usando energías renovables.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Automatización&lt;/em&gt; porque no haces nada activamente, solo debes poner artefactos que recogenrecursos por ti.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="créditos"&gt;Créditos&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Desarrollado por mi ¡Antimundo!&lt;/li&gt;
+&lt;li&gt;La música es de Frederic Lardon, de su album &lt;a href="https://loyaltyfreakmusic.com/music/cellphone/"&gt;Cellphone&lt;/a&gt; bajo CC0 así que es dominio público (Checkead la web de LolaylityFreakMusic si necesitáis música para juegos, porque tremendo artista).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="info-adicional"&gt;Info adicional&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Trabajo y voy a la universidad, por lo que este juego está hecho a toda prisa el fin de semana.&lt;/li&gt;
+&lt;li&gt;Es mi primer juego de jam hecho en Godot ¡Viva Godot!&lt;/li&gt;
+&lt;li&gt;Me gusta mucho Godot.&lt;/li&gt;
+&lt;li&gt;Gracias Godot por existir, te quiero Godot.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="software-libre"&gt;Software libre&lt;/h3&gt;
+&lt;p&gt;Este juego es software libre, puedes ver el código y los assets aquí: &lt;a href="https://codeberg.org/antimundo/poder-solar"&gt;codeberg.org/antimundo/poder-solar&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Mars Arena 2</title><link>https://antimundo.es/projects/mars-arena-2/</link><pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/mars-arena-2/</guid><description>&lt;p&gt;Mars Arena 2 is a mobile rogue-lite bullet-hell, where you try to overcome waves of unique enemies with your custom spaceship.&lt;/p&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/mars-arena-2/ma2-1.jpg"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/mars-arena-2/ma2-2.jpg"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/mars-arena-2/ma2-3.jpg"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/mars-arena-2/ma2-4.jpg"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/mars-arena-2/ma2-5.jpg"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/mars-arena-2/ma2-6.jpg"&gt;
+ &lt;img src="https://antimundo.es/images/posts/games/mars-arena-2/ma2-7.jpg"&gt;
+&lt;/div&gt;
+&lt;h2 id="additional-info"&gt;Additional info&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Customize your spaceship, with 216 combinations of different parts.&lt;/li&gt;
+&lt;li&gt;Play 4 unique handmade levels + an endless level.&lt;/li&gt;
+&lt;li&gt;Free to play, no ads, no microtransactions.&lt;/li&gt;
+&lt;li&gt;Short game, you will probably complete it in about 30 minutes.&lt;/li&gt;
+&lt;li&gt;Rogue-lite mechanics, with multiple decisions every level to upgrade your ship.&lt;/li&gt;
+&lt;li&gt;Available for Android.&lt;/li&gt;
+&lt;li&gt;Made with Unity by Unity Technologies.&lt;/li&gt;
+&lt;li&gt;Languages available: Spanish, English, French.&lt;/li&gt;
+&lt;li&gt;Developed by &lt;a href="https://antimundo.es/"&gt;Antimundo&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Music by &lt;a href="https://www.abstractionmusic.com"&gt;Ben Burnes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="privacy"&gt;Privacy&lt;/h2&gt;
+&lt;p&gt;Mars Arena 2 is an offline game, and it doesn’t send any data anywhere.&lt;/p&gt;</description></item><item><title>Fibonacci</title><link>https://antimundo.es/projects/fibonacci/</link><pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/fibonacci/</guid><description>&lt;script&gt;
+window.onload = function() {
+ fibonacci(1478, document.getElementById("fibonacci"));
+}
+
+function fibonacci(numero, element)
+{
+ let printText = "";
+ var var1 = 0;
+ var var2 = 1;
+ var var3;
+
+ printText += var1 + "\n";
+ printText += var2 + "\n";
+
+ for(var i=3; i &lt;= numero;i++)
+ {
+ var3 = var1 + var2;
+ var1 = var2;
+ var2 = var3;
+ printText += var3 + "\n";
+ }
+ element.innerText = printText;
+}
+&lt;/script&gt;
+&lt;p&gt;Este programa genera los números de la espiral de Fibonacci, no tiene ningun uso, pero mola.&lt;/p&gt;</description></item><item><title>Ruleta</title><link>https://antimundo.es/projects/ruleta/</link><pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/ruleta/</guid><description>&lt;script&gt;
+let currentMoney = 1000;
+let betMoney; 
+let isMoneyTurn = true; // true: choose money step, false: choose bet step
+let feedback;
+let feedbackMoney;
+let userText;
+// Variables used to check stats
+let countPairs = 0;
+let countOdds = 0;
+let countZeros = 0;
+const ROULETTE_NUMBERS = 36;
+
+document.addEventListener("keydown", (e) =&gt; {
+ if (e.key == "Enter"){
+ validate();
+ }
+});
+
+window.onload = function() {
+ feedback = document.getElementById("feedback");
+ feedbackMoney = document.getElementById("feedbackMoney");
+ feedbackBet = document.getElementById("feedbackBet");
+ userText = document.getElementById("userText");
+ feedbackMoney.innerText = getMoneyText(currentMoney);
+ feedback.innerText = "¿Cuánto dinero vas a apostar?";
+};
+
+function getMoneyText(money) {
+ return "Tienes " + money + "€";
+}
+
+function getBetText(bet) {
+ return "Has apostado " + bet + "€\n";
+}
+
+function validate() {
+ let answer = "";
+ let result = userText.value;
+ userText.value = "";
+ if (isMoneyTurn){
+ if (result == undefined || result == null || result == "" || isNaN(result)){
+ answer += "Esa no es una respuesta válida, escribe un número.";
+ }
+ else if (parseInt(result) &gt; currentMoney){
+ answer += "Esa no es una respuesta válida, no tienes tanto dinero.";
+ }
+ else if (parseInt(result) &lt;= 0){
+ answer += "Esa no es una respuesta válida, la cantidad mínima a apostar es 1€";
+ }
+ else if (parseInt(result) &gt; 800){
+ answer += "Esa no es una respuesta válida, la cantidad máxima a apostar es 800€";
+ }
+ else {
+ betMoney = parseInt(result);
+ userText.value = "";
+ answer += getBetText(betMoney) + "¿Vas a apostar a par, impar, o un número entre 1 y " + ROULETTE_NUMBERS + "?";
+ feedbackBet.innerText = "";
+ isMoneyTurn = false;
+ }
+ }
+ else {
+ let isBetWon = false;
+ if (
+ result == null ||
+ result == undefined ||
+ result == "" ||
+ isNaN(result) &amp;&amp; !(
+ result.toLowerCase() == "p" ||
+ result.toLowerCase() == "par" ||
+ result.toLowerCase() == "i" ||
+ result.toLowerCase() == "impar")){
+ answer += getBetText(betMoney) + "Esa no es una resputesta válida.\n¿Vas a apostar a par, impar, o un número entre 1 y " + ROULETTE_NUMBERS + "?";
+ }
+ else if (parseInt(result) &lt; 1 || parseInt(result) &gt; ROULETTE_NUMBERS){
+ answer += getBetText(betMoney) + "Ese número no es válido\n¿Vas a apostar a par, impar, o un número entre 1 y " + ROULETTE_NUMBERS + "?";
+ }
+ else if (
+ parseInt(result) &gt; 0 || 
+ parseInt(result) &lt; ROULETTE_NUMBERS ||
+ result.toLowerCase() == "p" ||
+ result.toLowerCase() == "par" ||
+ result.toLowerCase() == "i" ||
+ result.toLowerCase() == "impar"){
+ const random = getRandomIntInclusive(-1, ROULETTE_NUMBERS);
+
+ if (random &lt;= 0){
+ isBetWon = false;
+ }
+ else if (!isNaN(result)){
+ isBetWon = random == parseInt(result) &amp;&amp; random != 0;
+ if (isBetWon){
+ currentMoney += (betMoney * (ROULETTE_NUMBERS - 1));
+ }
+ }
+ else if (result.toLowerCase() == "p" || result.toLowerCase() == "par") {
+ isBetWon = random % 2 == 0;
+ if (isBetWon){
+ currentMoney += betMoney;
+ }
+ }
+ else if (result.toLowerCase() == "i" || result.toLowerCase() == "impar") {
+ isBetWon = random % 2 == 1;
+ if (isBetWon){
+ currentMoney += betMoney;
+ }
+ }
+ if (isBetWon){
+ feedbackBet.innerText = "Has ganado la apuesta, apostaste " + result + " y el resultado fue " + random + "\n";
+ feedbackBet.style.color = "green";
+ }
+ else{
+ let resultText = random;
+ if (resultText == -1){
+ resultText = "00";
+ }
+ feedbackBet.innerText = "Has perdido la apuesta, apostaste " + result + " y el resultado fue " + resultText + ".\n";
+ currentMoney -= betMoney;
+ feedbackBet.style.color = "red";
+ }
+ answer += "¿Cuánto dinero vas a apostar?";
+ 
+ if (random &lt;= 0){
+ countZeros ++;
+ }
+ else if (random % 2 == 1){
+ countPairs ++;
+ }
+ else if (random % 2 == 0){
+ countOdds ++;
+ }
+ console.log(
+ "Current money: " + currentMoney +
+ "\nBet money: " + betMoney +
+ "\nPlayer bet: " + result +
+ "\nBet result (random): " + random +
+ "\nIs bet Won: " + isBetWon +
+ "\n# Stats" +
+ "\nPairs: " + countPairs +
+ "\nOdds: " + countOdds +
+ "\nZeros: " + countZeros
+ );
+ isMoneyTurn = true;
+ }
+ }
+ feedbackMoney.innerText = getMoneyText(currentMoney);;
+ feedback.innerText = answer;
+}
+
+function getRandomIntInclusive(min, max) {
+ min = Math.ceil(min);
+ max = Math.floor(max);
+ // The maximum is inclusive and the minimum is inclusive
+ return Math.floor(Math.random() * (max - min + 1) + min); 
+}
+&lt;/script&gt;
+&lt;p&gt;Este programa simula una ruleta de casino.&lt;/p&gt;</description></item><item><title>Wikiwi</title><link>https://antimundo.es/projects/wikiwi/</link><pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/wikiwi/</guid><description>&lt;p&gt;El Kiwi no es muy ágil ni salta mucho ¡Usa la inercia a tu favor, juega con las físicas, y combina objetos para subir todo lo que puedas!&lt;/p&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1nLzEwMTM2NTQ0LmdpZg==/original/xdn8U6.gif"&gt;
+ &lt;img src="https://img.itch.zone/aW1nLzEwMTM2NTc4LmdpZg==/original/RWF9rn.gif"&gt;
+&lt;/div&gt;
+&lt;p&gt;Compra, vende, y organiza tus objetos en la tienda ¡experimenta con distintas combinaciones que te hagan subir lo mas rápido posible!&lt;/p&gt;
+&lt;h2 id="indie-spain-jam"&gt;Indie Spain Jam&lt;/h2&gt;
+&lt;p&gt;¡Ayuda a este kiwi que no puede volar a salir del agujero al que se ha caído! ¡Usa las físicas a tu favor!&lt;/p&gt;</description></item><item><title>Antimundo's car prototype</title><link>https://antimundo.es/projects/antimundos-car-prototype/</link><pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/antimundos-car-prototype/</guid><description>&lt;p&gt;This is a car controller prototype, made with Unity and. All the code and 3D models are 100% made by me. It is designed to be played with a controller, not with a keyboard.&lt;/p&gt;
+&lt;h3 id="features"&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Physics based movement!&lt;/li&gt;
+&lt;li&gt;Master the drifting mechanics through the curves.&lt;/li&gt;
+&lt;li&gt;Customize your car.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="extra-tips"&gt;Extra tips&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;If your car rolls over, you can flip it back by braking or accelerating.&lt;/li&gt;
+&lt;li&gt;Press &lt;em&gt;Q&lt;/em&gt; to look back, and &lt;em&gt;Q&lt;/em&gt; to honk.&lt;/li&gt;
+&lt;li&gt;You can navigate all the menus with just a keyboard or a controller, you don&amp;rsquo;t need a mouse!&lt;/li&gt;
+&lt;li&gt;Press *ESC *to open the menu, and restart the game or go back to customize your car.&lt;/li&gt;
+&lt;li&gt;The *soft *suspension can help you navigate through the hills :)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE5ODc5My83MjAzOTA2LmpwZw==/original/sYipAY.jpg"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE5ODc5My83MjAzOTA1LmpwZw==/original/0zO5eN.jpg"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE5ODc5My83MjAzOTA3LmpwZw==/original/WcWvSl.jpg"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE5ODc5My83MjAzOTA0LmpwZw==/original/F9nM0C.jpg"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE5ODc5My83MjA0NDMyLmdpZg==/original/qk8HYX.gif"&gt;
+&lt;/div&gt;</description></item><item><title>Villajunto</title><link>https://antimundo.es/projects/villajunto/</link><pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/villajunto/</guid><description>&lt;p&gt;Ayuda a los habitantes de tu pueblo para que se unan en tu lucha contra el rey.&lt;/p&gt;
+&lt;p&gt;Hecho para la &lt;a href="https://itch.io/jam/spain-game-devs-jam-iii"&gt;Spanish Game Devs Jam III&lt;/a&gt;, el tema era, &lt;em&gt;unión&lt;/em&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Programación: &lt;a href="https://antimundo.itch.io/"&gt;Antimundo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ilustración: &lt;a href="https://www.instagram.com/krikeshh/"&gt;Sara Krikech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Doblaje: Fernando Martín (&lt;em&gt;&lt;a href="mailto:Fernandomarrtinloc@gmail.com"&gt;Fernandomarrtinloc@gmail.com&lt;/a&gt;)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Música: &lt;a href="https://loyaltyfreakmusic.com/"&gt;Rrrrrose Azerty&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTIwODc5Mi83MDY4NjEzLnBuZw==/original/XDj34u.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTIwODc5Mi83MDY4NjE0LnBuZw==/original/Dblxcf.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTIwODc5Mi83MDY4NjE1LnBuZw==/original/%2Bcuseg.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTIwODc5Mi83MDY4NjEyLnBuZw==/original/VDVLo4.png"&gt;
+&lt;/div&gt;</description></item><item><title>Cashlang</title><link>https://antimundo.es/projects/cashlang/</link><pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/cashlang/</guid><description>&lt;p&gt;Learn vocabulary of three different languages, and twelve diferent categories. Try to make a big combo by guessing as many words as you can.&lt;/p&gt;
+&lt;p&gt;Supported languages: spanish, english, french.&lt;/p&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE1MjUzNS82NzI0Mzk2LnBuZw==/original/NgH%2BH5.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE1MjUzNS82NzI0Mzk1LnBuZw==/original/oneSBM.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE1MjUzNS82NzI0Mzk3LnBuZw==/original/zd9EYB.png"&gt;
+&lt;/div&gt;</description></item><item><title>Mars Arena</title><link>https://antimundo.es/projects/mars-arena/</link><pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/mars-arena/</guid><description>&lt;p&gt;Customize your ship, and try to survive as long as you can. Try different combinations, and choose wisely the upgrades you make around your jurney.
+Mars Arena is 100% free game, without any ads or microtransactions.&lt;/p&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE0OTIwNC82Njc1MDQxLnBuZw==/original/5kaKce.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE0OTIwNC82Njc1MDQyLnBuZw==/original/ISJT4V.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE0OTIwNC82Njc1MDQzLnBuZw==/original/TpXDB1.png"&gt;
+&lt;/div&gt;</description></item><item><title>A Wheel Game</title><link>https://antimundo.es/projects/a-wheel-game/</link><pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/a-wheel-game/</guid><description>&lt;p&gt;You are a wheel, try to complete the levels as fast as you can!&lt;/p&gt;
+&lt;p&gt;I made this game to test Unity physics, mobile game controles, and JSON save format.&lt;/p&gt;
+&lt;p&gt;In terms of accesibility, the game has high contrast colors, you can customize your touchscreen controlls, play with a keyboard, or with a controller. And the game has no text, so everything is indicated with just icons.&lt;/p&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE0NTk3NC82NjUyMDk0LmpwZw==/original/2c9Fzp.jpg"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE0NTk3NC82NjUyMDkzLmpwZw==/original/favCjE.jpg"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTE0NTk3NC82NjUyMDk1LmpwZw==/original/w%2BIpmN.jpg"&gt;
+&lt;/div&gt;</description></item><item><title>Anonym-OS</title><link>https://antimundo.es/projects/anonym-os/</link><pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/anonym-os/</guid><description>&lt;p&gt;Hecho para la &lt;a href="https://itch.io/jam/por-que-jam-i"&gt;por qué gamejam&lt;/a&gt;, el tema era, el &lt;em&gt;anonimato&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Controla lo que los demás ven sobre ti en las redes sociales, para que no vean aquello que quieres ocultarles. Cada persona tiene unos gustos, a tu abuelo le gusta verte buscar trabajo en internet, pero no que pierdas el tiempo subiendo memes.&lt;/p&gt;
+&lt;p&gt;Cada persona quiere ver unas cosas de ti, tu objetivo es mostrarles lo que quieren ver para tener una buena relación con ellos.&lt;/p&gt;</description></item><item><title>Tree Rescuer</title><link>https://antimundo.es/projects/tree-rescuer/</link><pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/tree-rescuer/</guid><description>&lt;p&gt;This game was made for the &lt;a href="https://itch.io/jam/make-a-level-may"&gt;Make A Level Jam&lt;/a&gt;, the theme was &lt;em&gt;emergency&lt;/em&gt;, so I made a game where you have to save trees from diferent emergencies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fire: Use a fire extinguisher to stop it.&lt;/li&gt;
+&lt;li&gt;Dryness: Avoid it with a watering can.&lt;/li&gt;
+&lt;li&gt;Bees: use a spray to kick them out.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="controls"&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Move: WASD, or arrow keys.&lt;/li&gt;
+&lt;li&gt;Use object: Mouse click, E, or M&lt;/li&gt;
+&lt;li&gt;Drop / swap object: Right mouse click, Q, or N&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTAzMzg1Ni81OTEwMjI3LnBuZw==/347x500/masTCt.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTAzMzg1Ni81OTEwMzI4LnBuZw==/original/%2Bl6XZw.png"&gt;
+&lt;/div&gt;</description></item><item><title>Bulleya</title><link>https://antimundo.es/projects/bulleya/</link><pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/bulleya/</guid><description>&lt;p&gt;A different bullet hell game every 10 seconds.&lt;br&gt;
+Inspired by &lt;a href="https://majorariatto.itch.io/pureya"&gt;Pureya&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This game was made in only 10 hours, using Unity, and Inkscape made for the &lt;a href="https://itch.io/jam/bullet-jam-2021"&gt;Bullet Hell Jam 2021&lt;/a&gt;. But later improved by adding some polish, new sounds, and a new minigame.&lt;/p&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTAwNzIxMS81NzQyODQ4LnBuZw==/original/rl83Mg.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTAwNzIxMS81NzQyOTMxLmdpZg==/original/QWiPKk.gif"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTAwNzIxMS81NzQ2NTkyLnBuZw==/original/g5C%2FKH.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvMTAwNzIxMS81NzQ2NTkwLnBuZw==/original/6fdwUr.png"&gt;
+&lt;/div&gt;</description></item><item><title>Shooty Bob</title><link>https://antimundo.es/projects/shooty-bob/</link><pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/shooty-bob/</guid><description>&lt;p&gt;Bob is a guy who shoots ufos for no reason, destroy them before they fall, and get as many points as you can!
+Shooty Bob is 100% free game, without any ads or microtransactions.
+It&amp;rsquo;s been made by a spanish solo indie developer, is the first phone game i make, I hope you enjoy it :)&lt;/p&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvOTEzMzQxLzUxNjMyMDUucG5n/original/LfWcUp.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvOTEzMzQxLzUxNjMyMDYucG5n/original/8Df6iV.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvOTEzMzQxLzUxNjMyMDcucG5n/original/mNwlFX.png"&gt;
+&lt;/div&gt;</description></item><item><title>Dimension Swapper</title><link>https://antimundo.es/projects/dimension-swapper/</link><pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/dimension-swapper/</guid><description>&lt;p&gt;&lt;strong&gt;Press E&lt;/strong&gt; to swipe between dimensions**.**&lt;/p&gt;
+&lt;h2 id="dimension-swapper"&gt;Dimension Swapper&lt;/h2&gt;
+&lt;p&gt;This game was made for my first gamejam! The &lt;a href="https://itch.io/jam/nokiajam3"&gt;Nokia Jam 3&lt;/a&gt;. The theme was ON / OFF, so i made this game where you swipe between two dimensions to turn platforms on and off.&lt;/p&gt;
+&lt;p&gt;Its a very simple and short game, but it&amp;rsquo;s made with tons of love, and I hope you enjoy it and have fun :D&lt;/p&gt;
+&lt;p&gt;I made it with Unity 2019.4.17, and the assets were made using Gimp.&lt;/p&gt;</description></item><item><title>Pitagunas</title><link>https://antimundo.es/projects/pitagunas/</link><pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/pitagunas/</guid><description>&lt;p&gt;Top down shooter about a triangle called Pitagunas.&lt;/p&gt;
+&lt;h3 id="controls"&gt;Controls&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;1, 2, 3 To switch weapons.&lt;/li&gt;
+&lt;li&gt;Shit / Q to do a dash.&lt;/li&gt;
+&lt;li&gt;W to accelerate.&lt;/li&gt;
+&lt;li&gt;Click to shoot&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="info"&gt;Info&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Objective: Collect pentagons.&lt;/li&gt;
+&lt;li&gt;Motivations: none of them.&lt;/li&gt;
+&lt;li&gt;Engine: Unity 2019.4.11&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvODE0Nzc0LzQ1Njg5NjcuanBn/original/%2BPJikE.jpg"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvODE0Nzc0LzQ1Njg5NjguanBn/original/aL5bSx.jpg"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvODE0Nzc0LzQ1Njg5NjkuanBn/original/9h11kM.jpg"&gt;
+&lt;/div&gt;</description></item><item><title>Mapanator</title><link>https://antimundo.es/projects/mapanator/</link><pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate><guid>https://antimundo.es/projects/mapanator/</guid><description>&lt;p&gt;&lt;strong&gt;Mapanator&lt;/strong&gt; es un juego para aprender geografía.&lt;/p&gt;
+&lt;p&gt;Tu objetivo es averiguar los lugares que te dicen sin equivocarte, para acabar con la mayor cantidad de puntos.&lt;/p&gt;
+&lt;p&gt;El juego está hecho en Unity  2019.4.f1, programado en C#, y las imágenes editadas en GIMP. Es el primer juego que publico, así que espero que os guste :D&lt;/p&gt;
+&lt;div class="img-container"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvNzY4NzkyLzUxNTgzNjAucG5n/original/SZjCAb.png"&gt;
+ &lt;img src="https://img.itch.zone/aW1hZ2UvNzY4NzkyLzUxNTgzNzMucG5n/original/4jfP1x.png"&gt;
+&lt;/div&gt;</description></item></channel></rss>
